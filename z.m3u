@@ -634,7 +634,7 @@ http://93.170.254.17/MMATV/index.m3u8
 http://185.46.16.239:8000/Eurosport_1
 
 #EXTINF:-1 tvg-chno="123" tvg-id="match-arena" group-title="Спортивные",Матч! Арена
-http://194.143.148.28:8080/MatchArena/index.m3u8
+http://178.212.71.253:8000/play/54/index.m3u8
 
 #EXTINF:-1 tvg-chno="120" tvg-id="match-boets" group-title="Спортивные",Матч Боец
 http://87.120.142.11:18000/Match!
@@ -796,6 +796,7 @@ http://195.9.195.3:8080/hls/5346.m3u8
 
 #EXTINF:-1 tvg-chno="00" group-title="ИНФО",ОБНОВЛЕНИЕ: 18.12.2025г 12:16 
 https://iptvrus.github.io/z/info.mp4
+
 
 
 
