@@ -472,7 +472,7 @@ http://vod.tuva.ru/rusroman/index.m3u8
 http://195.26.83.96:7006/play/a00y/index.m3u8
 
 #EXTINF:-1 tvg-chno="169" tvg-id="kinopremiera" group-title="Кино и сериалы",Кинопремьера HD
-http://tv.ttk.mx:9162
+http://178.212.71.253:8000/play/125/index.m3u8
 
 #EXTINF:-1 tvg-chno="170" tvg-id="kinosemya" group-title="Кино и сериалы",Киносемья
 http://2.57.217.85:8000/play/a05v/index.m3u8
@@ -549,7 +549,7 @@ http://195.64.140.147:10082/82
 http://178.212.71.253:8000/play/129/index.m3u8
 
 #EXTINF:-1 tvg-chno="181" tvg-id="fan-hd" group-title="Кино и сериалы",Fan HD
-http://195.9.195.3:8080/hls/157239.m3u8
+http://ott.watch/stream/6HAPZWKKG3/420.m3u8
 
 
 
@@ -600,7 +600,7 @@ http://45.145.32.13:20440/outdoor_channel/index.m3u8?token=test
 
 
 #EXTINF:-1 tvg-chno="200" tvg-id="futbol" group-title="Спортивные",Футбол
-http://tv.ttk.mx:9065
+http://146.120.14.239:3001/play/a0fp
 
 #EXTINF:-1 tvg-chno="201" tvg-id="match-futbol-1" group-title="Спортивные",МАТЧ! Футбол 1 
 http://31.148.48.15/Match_Futbol_1_HD/index.m3u8
@@ -796,6 +796,7 @@ http://195.9.195.3:8080/hls/5346.m3u8
 
 #EXTINF:-1 tvg-chno="00" group-title="ИНФО",ОБНОВЛЕНИЕ: 18.12.2025г 12:16 
 https://iptvrus.github.io/z/info.mp4
+
 
 
 
