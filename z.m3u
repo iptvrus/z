@@ -368,13 +368,23 @@ http://178.212.71.253:8000/play/118/index.m3u8
 
 
 
+
+#EXTINF:-1 tvg-chno="207" tvg-id="fox-kids" group-title="👶 ДЕТСКИЕ",Fox Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://goodgame.ru
+http://195.9.195.3:8080/hls/215291.m3u8
+
+#EXTINF:-1 tvg-chno="207" tvg-id="fox-kids" group-title="👶 ДЕТСКИЕ", JETIX
+http://foxkids-online.ru/hls/test.m3u8
+
+#EXTINF:-1 tvg-chno="207" tvg-id="cartoon-classics" group-title="👶 ДЕТСКИЕ",Cartoon Classics
+http://95.66.188.74/Cartoon_Classics/index.m3u8
+
 #EXTINF:-1 tvg-chno="33" tvg-id="nick-jr" group-title="👶 ДЕТСКИЕ" ,Nick Jr
 http://ott.watch/stream/6HAPZWKKG3/220.m3u8
 
 #EXTINF:-1 tvg-chno="33" tvg-id="nickelodeon-ru" group-title="👶 ДЕТСКИЕ",Nickelodeon HD
 http://ott.watch/stream/6HAPZWKKG3/443.m3u8
-
-
 
 #EXTINF:-1 tvg-chno="33" tvg-id="solntse" group-title="👶 ДЕТСКИЕ",Солнце
 http://tv.mediacdn.ru/live/solntse/playlist.m3u8
@@ -408,13 +418,6 @@ http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="138" tvg-id="radost-moya" group-title="👶 ДЕТСКИЕ",Радость Моя
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
-
-#EXTINF:-1 tvg-chno="207" tvg-id="fox-kids" group-title="👶 ДЕТСКИЕ",Fox Kids
-#EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/hls/215291.m3u8
-
-#EXTINF:-1 tvg-chno="207" tvg-id="cartoon-classics" group-title="👶 ДЕТСКИЕ",Cartoon Classics
-http://95.66.188.74/Cartoon_Classics/index.m3u8
 
 #EXTINF:-1 tvg-chno="208" tvg-id="ani" group-title="👶 ДЕТСКИЕ",Ani
 http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
@@ -812,6 +815,7 @@ http://195.9.195.3:8080/hls/5346.m3u8
 
 #EXTINF:-1 tvg-chno="00" group-title="ИНФО",ОБНОВЛЕНИЕ: 18.12.2025г 12:16 
 https://iptvrus.github.io/z/info.mp4
+
 
 
 
