@@ -161,10 +161,13 @@ http://93.113.203.165/iptv/F5BM9GXMAPYBDK/19231/index.m3u8
 http://93.113.203.165/iptv/F5BM9GXMAPYBDK/18036/index.m3u8
 
 #EXTINF:-1 tvg-chno="57" tvg-id="sts-love" group-title="Кино и сериалы",СТС Love
-http://194.143.148.28:8080/CTC_LOVE/tracks-v1a1/mono.m3u8
+http://95.66.188.74/CTC_Love/mono.m3u8
 
 #EXTINF:-1 tvg-chno="46" tvg-id="kinoko" group-title="Кино и сериалы",Кинеко
-http://194.143.148.28:8080/KINEKO/tracks-v1a1/mono.m3u8
+http://31.148.48.15/Kineko/index.m3u8
+
+#EXTINF:-1 tvg-chno="46" tvg-id="kinoko" group-title="Кино и сериалы",Кинеко HD
+http://31.148.48.15/Kineko_HD/index.m3u8
 
 #EXTINF:-1 tvg-chno="173" tvg-id="dorama" group-title="Кино и сериалы",Дорама HD
 http://193.27.209.122/dorama/index.m3u8
@@ -196,8 +199,7 @@ http://95.66.188.74/.black/index.m3u8
 #EXTINF:-1 tvg-chno="53" tvg-id="kinotv" group-title="Кино и сериалы",Kино TB
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="55" tvg-id="kinotv-hd" group-title="Кино и сериалы",Kино TB HD
-http://tv.ttk.mx:9113
+http://194.28.61.170:8888/kinotv_hd
 
 #EXTINF:-1 tvg-chno="59" tvg-id="amedia2" group-title="Кино и сериалы",Amedia 2
 http://sc.id-tv.kz/A1.m3u8
@@ -324,7 +326,7 @@ http://stv.mediacdn.ru/live/cdn/mama/tracks-v1a1/mono.ts.m3u8
 http://194.143.148.28:8080/RTD_HD/mpegts
 
 #EXTINF:-1 tvg-chno="113" tvg-id="tekhno24" group-title="Познавательные",Техно 24
-http://tv.ttk.mx:9056
+http://178.212.71.253:8000/play/63/index.m3u8
 
 
 
@@ -359,9 +361,8 @@ http://195.158.223.132:8005/Avto_24
 http://95.66.188.74/Drive/index.m3u8
 
 
-#EXTINF:-1 tvg-chno="127" tvg-id="hd-rex" group-title="Федеральные",HD REX
-http://195.191.208.11:8087/udp/238.2.49.89:1234
-
+#EXTINF:-1 tvg-chno="127" tvg-id="hd-rex" group-title="Федеральные",Русский Экстрим
+http://178.212.71.253:8000/play/118/index.m3u8
 
 
 
@@ -535,7 +536,7 @@ https://stream2.somon.tv/vipcomedy/index.m3u8
 http://84.54.128.52:9090/play/a009/index.m3u8
 
 #EXTINF:-1 tvg-chno="174" tvg-id="komediya" group-title="Кино и сериалы",Комедия
-http://46.151.151.250:9050
+http://95.66.188.74/Comedia/mono.m3u8
 
 
 
@@ -602,7 +603,7 @@ http://45.145.32.13:20440/outdoor_channel/index.m3u8?token=test
 http://tv.ttk.mx:9065
 
 #EXTINF:-1 tvg-chno="201" tvg-id="match-futbol-1" group-title="Спортивные",МАТЧ! Футбол 1 
-http://46.151.151.250:9114
+http://31.148.48.15/Match_Futbol_1_HD/index.m3u8
 
 #EXTINF:-1 tvg-chno="202" tvg-id="match-futbol-2" group-title="Спортивные",МАТЧ! Футбол 2
 http://31.148.48.15/Match_Futbol_2_HD/mono.m3u8
@@ -614,7 +615,7 @@ http://31.148.48.15/Match_Futbol_3_HD/index.m3u8
 http://tv.streams.baikal-telecom.net:8080/KHL_HD/mpegts
 
 #EXTINF:-1 tvg-chno="205" tvg-id="khl-prime" group-title="Спортивные",KHL Prime
-http://194.143.148.28:8080/KHL_HD/index.m3u8
+http://45.145.32.13:20440/khl_prime/index.m3u8?token=test
 
 #EXTINF:-1 tvg-chno="207" tvg-id="eurosport" group-title="Спортивные",Eurosport 1 HD
 http://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
@@ -642,7 +643,7 @@ http://87.120.142.11:18000/Match!
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 
 #EXTINF:-1 tvg-chno="125" tvg-id="match-igra" group-title="Спортивные",Матч! Игра
-http://tv.ttk.mx:9152
+http://31.148.48.15/Match_Igra/index.m3u8
 
 #EXTINF:-1 tvg-chno="126" tvg-id="match-strana" group-title="Спортивные",Матч Страна
 http://95.163.85.128/streams/media/match-strana_720x576/index.m3u8
@@ -793,8 +794,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/esperanza/chunks.m3u8
 http://195.9.195.3:8080/hls/5346.m3u8
 
 
-#EXTINF:-1 tvg-chno="00" group-title="ИНФО",ОБНОВЛЕНИЕ: 11.12.2025г 22:44 
+#EXTINF:-1 tvg-chno="00" group-title="ИНФО",ОБНОВЛЕНИЕ: 18.12.2025г 12:16 
 https://iptvrus.github.io/z/info.mp4
+
 
 
 
