@@ -374,13 +374,13 @@ http://178.212.71.253:8000/play/118/index.m3u8
 #EXTVLCOPT:http-referrer=https://goodgame.ru
 http://195.9.195.3:8080/hls/215291.m3u8
 
-#EXTINF:-1 tvg-chno="207" tvg-id="fox-kids" group-title="👶 ДЕТСКИЕ", JETIX
+#EXTINF:-1 tvg-chno="208" tvg-id="jetix" group-title="👶 ДЕТСКИЕ",JETIX
 http://foxkids-online.ru/hls/test.m3u8
 
-#EXTINF:-1 tvg-chno="207" tvg-id="cartoon-classics" group-title="👶 ДЕТСКИЕ",Cartoon Classics
+#EXTINF:-1 tvg-chno="209" tvg-id="cartoon-classics" group-title="👶 ДЕТСКИЕ",Cartoon Classics
 http://95.66.188.74/Cartoon_Classics/index.m3u8
 
-#EXTINF:-1 tvg-chno="33" tvg-id="nick-jr" group-title="👶 ДЕТСКИЕ" ,Nick Jr
+#EXTINF:-1 tvg-chno="33" tvg-id="nick-jr" group-title="👶 ДЕТСКИЕ",Nick Jr
 http://ott.watch/stream/6HAPZWKKG3/220.m3u8
 
 #EXTINF:-1 tvg-chno="33" tvg-id="nickelodeon-ru" group-title="👶 ДЕТСКИЕ",Nickelodeon HD
@@ -815,6 +815,7 @@ http://195.9.195.3:8080/hls/5346.m3u8
 
 #EXTINF:-1 tvg-chno="00" group-title="ИНФО",ОБНОВЛЕНИЕ: 18.12.2025г 12:16 
 https://iptvrus.github.io/z/info.mp4
+
 
 
 
