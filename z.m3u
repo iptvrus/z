@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-chno="1" tvg-id="pervy-hd" group-title="Федеральные",Первый канал HD
-http://2.57.217.85:8000/play/a035/index.m3u8
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 
 #EXTINF:-1 tvg-chno="2" tvg-id="rossia1-hd" group-title="Федеральные",Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
@@ -95,7 +95,7 @@ https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/tracks-v1a1/mo
 
 
 #EXTINF:-1 tvg-chno="135" tvg-id="tlc" group-title="Развлекательные",TLC
-http://5.188.159.128:8070/TLC/index.m3u8
+http://109.75.59.241:8017/TLC/index.m3u8
 
 #EXTINF:-1 tvg-chno="31" tvg-id="che" group-title="Развлекательные",Че
 http://31.148.48.15/Che/index.m3u8
@@ -126,7 +126,7 @@ http://31.148.48.15/Eda_Premium_HD/index.m3u8
 http://93.113.203.165/iptv/F5BM9GXMAPYBDK/6009/index.m3u8
 
 #EXTINF:-1 tvg-chno="86" tvg-id="telekafe" group-title="Развлекательные",Телекафе
-http://45.11.139.43:8555/telekafe/index.m3u8
+http://31.148.48.15/Telekafe/index.m3u8
 
 #EXTINF:-1 tvg-chno="88" tvg-id="ntv-stil" group-title="Развлекательные",НТВ Стиль
 http://93.113.203.165/iptv/F5BM9GXMAPYBDK/745/index.m3u8
@@ -815,6 +815,7 @@ http://195.9.195.3:8080/hls/5346.m3u8
 
 #EXTINF:-1 tvg-chno="00" group-title="ИНФО",ОБНОВЛЕНИЕ: 18.12.2025г 12:16 
 https://iptvrus.github.io/z/info.mp4
+
 
 
 
