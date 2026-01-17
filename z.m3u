@@ -25,7 +25,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
 http://95.66.188.74/Karusel/mono.m3u8
 
 #EXTINF:-1 tvg-chno="9" tvg-id="otr" group-title="Федеральные",ОТР
-http://95.66.188.74/OTR/index.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 
 #EXTINF:-1 tvg-chno="10" tvg-id="tvcentr" tvg-logo="https://iptvx.one/picons/tvcentr.png" group-title="Федеральные",ТВ Центр
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
@@ -821,4 +821,5 @@ http://195.9.195.3:8080/hls/5346.m3u8
 
 #EXTINF:-1 tvg-chno="00" group-title="ИНФО",ОБНОВЛЕНИЕ: 18.12.2025г 12:16 
 https://iptvrus.github.io/z/info.mp4
+
 
