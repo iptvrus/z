@@ -719,6 +719,12 @@ http://195.9.195.3:8080/hls/163253.m3u8
 #EXTVLCOPT:http-referrer=https://goodgame.ru
 http://195.9.195.3:8080/hls/157269.m3u8
 
+#EXTINF:-1 tvg-chno="217" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="selecao-filmy" group-title="ТЕСТ",SeleCaoTV Фильмы (зеркало)
+https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="218" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="ТЕСТ",SeleCaoTV Сериалы (зеркало)
+https://live20.bozztv.com/akamaissh101/ssh101/esperanza/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы",Alpha Cinema
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 
@@ -815,143 +821,4 @@ http://195.9.195.3:8080/hls/5346.m3u8
 
 #EXTINF:-1 tvg-chno="00" group-title="ИНФО",ОБНОВЛЕНИЕ: 18.12.2025г 12:16 
 https://iptvrus.github.io/z/info.mp4
-
-#EXTINF:-1 group-title="Очень странные дела",Очень странные дела (2016) / Stranger.Things.S01E01
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/281162/stream.m3u8
-#EXTINF:-1 group-title="Очень странные дела",Очень странные дела (2016) / Stranger.Things.S01E02
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/281163/stream.m3u8
-#EXTINF:-1 group-title="Очень странные дела",Очень странные дела (2016) / Stranger.Things.S01E03
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/281164/stream.m3u8
-#EXTINF:-1 group-title="Очень странные дела",Очень странные дела (2016) / Stranger.Things.S01E04
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/281165/stream.m3u8
-#EXTINF:-1 group-title="Очень странные дела",Очень странные дела (2016) / Stranger.Things.S01E05
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/281166/stream.m3u8
-#EXTINF:-1 group-title="Очень странные дела",Очень странные дела (2016) / Stranger.Things.S01E06
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/281167/stream.m3u8
-#EXTINF:-1 group-title="Очень странные дела",Очень странные дела (2016) / Stranger.Things.S01E07
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/281168/stream.m3u8
-#EXTINF:-1 group-title="Очень странные дела",Очень странные дела (2016) / Stranger.Things.S01E08
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/281169/stream.m3u8
-#EXTINF:-1 group-title="Очень странные дела",Очень странные дела (2016) / Stranger.Things.S02E01
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/281170/stream.m3u8
-#EXTINF:-1 group-title="Очень странные дела",Очень странные дела (2016) / Stranger.Things.S02E02
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/281171/stream.m3u8
-#EXTINF:-1 group-title="Очень странные дела",Очень странные дела (2016) / Stranger.Things.S02E03
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/281172/stream.m3u8
-#EXTINF:-1 group-title="Очень странные дела",Очень странные дела (2016) / Stranger.Things.S02E04
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/281173/stream.m3u8
-#EXTINF:-1 group-title="Очень странные дела",Очень странные дела (2016) / Stranger.Things.S02E05
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/281174/stream.m3u8
-#EXTINF:-1 group-title="Очень странные дела",Очень странные дела (2016) / Stranger.Things.S02E06
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/281175/stream.m3u8
-#EXTINF:-1 group-title="Очень странные дела",Очень странные дела (2016) / Stranger.Things.S02E07
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/281176/stream.m3u8
-#EXTINF:-1 group-title="Очень странные дела",Очень странные дела (2016) / Stranger.Things.S02E08
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/281177/stream.m3u8
-#EXTINF:-1 group-title="Очень странные дела",Очень странные дела (2016) / Stranger.Things.S02E09
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/281178/stream.m3u8
-#EXTINF:-1 group-title="Очень странные дела",Очень странные дела (2016) / Stranger.Things.S03E01
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/281179/stream.m3u8
-#EXTINF:-1 group-title="Очень странные дела",Очень странные дела (2016) / Stranger.Things.S03E02
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/281180/stream.m3u8
-#EXTINF:-1 group-title="Очень странные дела",Очень странные дела (2016) / Stranger.Things.S03E03
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/281181/stream.m3u8
-#EXTINF:-1 group-title="Очень странные дела",Очень странные дела (2016) / Stranger.Things.S03E04
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/281182/stream.m3u8
-#EXTINF:-1 group-title="Очень странные дела",Очень странные дела (2016) / Stranger.Things.S03E05
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/281183/stream.m3u8
-#EXTINF:-1 group-title="Очень странные дела",Очень странные дела (2016) / Stranger.Things.S03E06
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/281184/stream.m3u8
-#EXTINF:-1 group-title="Очень странные дела",Очень странные дела (2016) / Stranger.Things.S03E07
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/281185/stream.m3u8
-#EXTINF:-1 group-title="Очень странные дела",Очень странные дела (2016) / Stranger.Things.S03E08
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/281186/stream.m3u8
-#EXTINF:-1 group-title="Очень странные дела",Очень странные дела (2016) / Stranger.Things.S04E01
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/281187/stream.m3u8
-#EXTINF:-1 group-title="Очень странные дела",Очень странные дела (2016) / Stranger.Things.S04E02
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/281188/stream.m3u8
-#EXTINF:-1 group-title="Очень странные дела",Очень странные дела (2016) / Stranger.Things.S04E03
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/281189/stream.m3u8
-#EXTINF:-1 group-title="Очень странные дела",Очень странные дела (2016) / Stranger.Things.S04E04
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/281190/stream.m3u8
-#EXTINF:-1 group-title="Очень странные дела",Очень странные дела (2016) / Stranger.Things.S04E05
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/281191/stream.m3u8
-#EXTINF:-1 group-title="Очень странные дела",Очень странные дела (2016) / Stranger.Things.S04E06
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/281192/stream.m3u8
-#EXTINF:-1 group-title="Очень странные дела",Очень странные дела (2016) / Stranger.Things.S04E07
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/281193/stream.m3u8
-#EXTINF:-1 group-title="Очень странные дела",Очень странные дела (2016) / Stranger.Things.S04E08
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/281194/stream.m3u8
-#EXTINF:-1 group-title="Очень странные дела",Очень странные дела (2016) / Stranger.Things.S04E09
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/281195/stream.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
