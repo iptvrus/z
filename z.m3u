@@ -380,6 +380,9 @@ http://foxkids-online.ru/hls/test.m3u8
 #EXTINF:-1 tvg-chno="209" tvg-id="cartoon-classics" group-title="👶 ДЕТСКИЕ",Cartoon Classics
 http://95.66.188.74/Cartoon_Classics/index.m3u8
 
+#EXTINF:-1 tvg-chno="209" tvg-id="chip-n-dale" group-title="👶 ДЕТСКИЕ", Чип и Дейл 
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+
 #EXTINF:-1 tvg-chno="33" tvg-id="nick-jr" group-title="👶 ДЕТСКИЕ",Nick Jr
 http://ott.watch/stream/6HAPZWKKG3/220.m3u8
 
@@ -821,5 +824,6 @@ http://195.9.195.3:8080/hls/5346.m3u8
 
 #EXTINF:-1 tvg-chno="00" group-title="ИНФО",ОБНОВЛЕНИЕ: 18.12.2025г 12:16 
 https://iptvrus.github.io/z/info.mp4
+
 
 
