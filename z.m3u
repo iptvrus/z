@@ -711,17 +711,6 @@ https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFX
 
 
 
-
-#EXTINF:-1 tvg-chno="217" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="selecao-filmy" group-title="Кинозалы",SeleCaoTV Фильмы
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://goodgame.ru
-http://195.9.195.3:8080/hls/163253.m3u8
-
-#EXTINF:-1 tvg-chno="218" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы",SeleCaoTV Сериалы
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://goodgame.ru
-http://195.9.195.3:8080/hls/157269.m3u8
-
 #EXTINF:-1 tvg-chno="217" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="selecao-filmy" group-title="ТЕСТ",SeleCaoTV Фильмы (зеркало)
 https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/chunks.m3u8
 
@@ -737,62 +726,9 @@ http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы",Alpha Moretime
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 
-#EXTINF:-1 tvg-chno="546" tvg-id="scripachtv" group-title="Кинозалы",SCRIPACH TV
-http://195.9.195.3:8080/hls/217083.m3u8
-
-#EXTINF:-0 tvg-id="vhs-ka" group-title="Кинозалы" tvg-logo="https://epg.iptvx.one/picons/vhs-ka.png",VHS-ка HD 
-http://95.66.188.74/VHS/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.goodgame.ru/files/avatars/av_1643167_Q5gP.jpg" group-title="Кинозалы",VHS кино
-#EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/hls/218531.m3u8
-
 #EXTINF:-1 tvg-id="strk" group-title="Кинозалы",СТРК HD
 http://sochinskayatrk.ru/hdtv/hls/CTPK_400/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.goodgame.ru/files/avatars/av_1676704_9wc1.jpg" group-title="Кинозалы",Moviee Toper
-#EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/hls/214749.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.goodgame.ru/files/avatars/av_avatar_hum.png" group-title="Кинозалы",КиноФраншизы 24/7
-#EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/hls/218193.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.goodgame.ru/files/avatars/av_avatar_elf.png" group-title="Кинозалы",Фильмы 24/7
-#EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/hls/218251.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/04102024/logos/9620-66ffb65641f1e.png" group-title="Кинозалы",Малдер Всё тв
-#EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/hls/153640.m3u8
-
-#EXTINF:-1 tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-1filmax.jpg" group-title="Кинозалы",1FILMAX
-#EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/hls/204708.m3u8
-
-#EXTINF:-1 tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-2filmax_0.jpg" group-title="Кинозалы",2FILMAX
-#EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/hls/204717.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/688SVFy/image-38.png" group-title="Кинозалы",Фантом
-#EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/hls/204722.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/m5xtPMJq/image-16.png" group-title="Кинозалы", Kino Mix
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://hls.goodgame.ru:8080/hls/216612.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/994jvr6f/image-4.png" tvg-id="" group-title="Кинозалы",Film Best
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://hls.goodgame.ru:8080/hls/212682.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hFs2QPrZ/image-35.png" tvg-id="" group-title="Кинозалы", FMC 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://hls.goodgame.ru:8080/hls/187741.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ynMtCF2H/image-29.png" tvg-id="" group-title="Кинозалы", Video Arsenal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/206461.m3u8
 
 
 
@@ -811,19 +747,23 @@ http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="30" tvg-id="moymir" group-title="Телемагазин",Мой Мир HD
 http://moymir.ru/hls/onair.m3u8
 
-#EXTINF:-1 tvg-chno="217" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="selecao-filmy" group-title="ТЕСТ",SeleCaoTV Фильмы (зеркало)
-https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/chunks.m3u8
 
-#EXTINF:-1 tvg-chno="218" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="ТЕСТ",SeleCaoTV Сериалы (зеркало)
-https://live20.bozztv.com/akamaissh101/ssh101/esperanza/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrC4Bs07/image-20.png" tvg-id="" group-title="ТЕСТ",Akudji
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/5346.m3u8
+
+#EXTINF:-1 tvg-chno="217" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="selecao-filmy" group-title="ТЕСТ",SeleCaoTV Фильмы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://goodgame.ru
+http://195.9.195.3:8080/hls/163253.m3u8
+
+#EXTINF:-1 tvg-chno="218" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="ТЕСТ",SeleCaoTV Сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://goodgame.ru
+http://195.9.195.3:8080/hls/157269.m3u8
 
 
 #EXTINF:-1 tvg-chno="00" group-title="ИНФО",ОБНОВЛЕНИЕ: 18.12.2025г 12:16 
 https://iptvrus.github.io/z/info.mp4
+
 
 
 
