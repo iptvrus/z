@@ -372,7 +372,7 @@ http://178.212.71.253:8000/play/118/index.m3u8
 #EXTINF:-1 tvg-chno="207" tvg-id="fox-kids" group-title="👶 ДЕТСКИЕ",Fox Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://goodgame.ru
-http://195.9.195.3:8080/hls/215291.m3u8
+https://ix.goodgame.ru/hls/215291.m3u8?expires=1768812999&token=xmPLiJ93bTtUd3s_OAYGEA
 
 #EXTINF:-1 tvg-chno="208" tvg-id="jetix" group-title="👶 ДЕТСКИЕ",JETIX
 http://foxkids-online.ru/hls/test.m3u8
@@ -763,6 +763,7 @@ http://195.9.195.3:8080/hls/157269.m3u8
 
 #EXTINF:-1 tvg-chno="00" group-title="ИНФО",ОБНОВЛЕНИЕ: 18.12.2025г 12:16 
 https://iptvrus.github.io/z/info.mp4
+
 
 
 
