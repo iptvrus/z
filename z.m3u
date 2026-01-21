@@ -358,7 +358,7 @@ http://ott.watch/stream/6HAPZWKKG3/274.m3u8
 http://178.212.71.253:8000/play/69/index.m3u8
 
 #EXTINF:-1 tvg-chno="122" tvg-id="avto24" group-title="Познавательные",Авто 24
-http://195.158.223.132:8005/Avto_24
+http://45.145.32.13:20440/avto24/index.m3u8?token=test
 
 #EXTINF:-1 tvg-chno="202" tvg-id="drive" group-title="Познавательные",Драйв
 http://95.66.188.74/Drive/index.m3u8
@@ -557,7 +557,7 @@ http://213.169.39.30:5006
 http://217.11.177.56/streams/media/tv1000_720x576/index.m3u8
 
 #EXTINF:-1 tvg-chno="216" tvg-id="tv1000-action" group-title="Кино и сериалы",Viju TV1000 Action
-http://217.11.177.56/streams/media/tv1000-action_720x576/index.m3u8
+https://flussonic.salomtv.uz/vijuTV1000action/video.m3u8
 
 #EXTINF:-1 tvg-chno="216" tvg-id="tv1000-romantica" group-title="Кино и сериалы",Viju TV1000 Romantica
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=FjbYpn46bZ-WvQANOmfnGw&e=1765028785&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
@@ -776,6 +776,7 @@ http://195.9.195.3:8080/hls/157269.m3u8
 
 #EXTINF:-1 tvg-chno="00" group-title="ИНФО",ОБНОВЛЕНИЕ: 18.12.2025г 12:16 
 https://iptvrus.github.io/z/info.mp4
+
 
 
 
