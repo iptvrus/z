@@ -43,10 +43,10 @@ http://193.25.8.59:8000/ESPN
 http://146.120.14.239:3001/play/a06n
 
 #EXTINF:-1 tvg-chno="15" tvg-id="tv3-ru" group-title="Федеральные",ТВ3
-http://93.170.254.17/TV3/index.m3u8
+http://95.47.156.60:8000/play/15/index.m3u8
 
 #EXTINF:-1 tvg-chno="16" tvg-id="piatnica" group-title="Федеральные",Пятница 
-http://95.66.188.74/Pyatnica/mono.m3u8
+http://95.47.156.60:8000/play/16/index.m3u8
 
 #EXTINF:-1 tvg-chno="17" tvg-id="zvezda" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/zvezda_telekanal2.jpeg" group-title="Федеральные",Звезда HD
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
@@ -55,7 +55,9 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="19" tvg-id="tnt" group-title="Федеральные",ТНТ HD
-http://95.66.188.74:80/TNT_HD/mono.m3u8
+https://bl.rutube.ru/livestream/f02b63bc8f0ed4dba04bbfce4a1119c5/index.m3u8?s=Ksmj0r7a74fBupCV1zhgxQ&e=2066519751&scheme=https
+#EXTINF:-1 tvg-chno="19" tvg-id="tnt" group-title="Федеральные",ТНТ HD
+https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=xi_8gJYgLL6s_k2zaalHKg&e=2068939169&scheme=https
 
 #EXTINF:-1 tvg-chno="20" tvg-id="muztv" tvg-logo="http://only4.tv/ch/1313.png" group-title="Музыкальные",МузТВ HD
 https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
@@ -101,7 +103,7 @@ http://109.75.59.241:8017/TLC/index.m3u8
 http://31.148.48.15/Che/index.m3u8
 
 #EXTINF:-1 tvg-chno="67" tvg-id="subbota" group-title="Развлекательные",Суббота!
-http://95.66.188.74/Subbota/index.m3u8
+http://31.148.48.15:80/Super/index.m3u8?token=test
 
 #EXTINF:-1 tvg-chno="34" tvg-id="u" group-title="Развлекательные",Ю
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
@@ -145,7 +147,7 @@ http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/track
 
 
 #EXTINF:-1 tvg-chno="89" tvg-id="nostalgiya" group-title="Развлекательные",Ностальгия
-http://95.66.188.74/Nostalgia/index.m3u8
+http://176.118.197.101/Nostalgiya/index.m3u8
 
 #EXTINF:-1 tvg-chno="36" tvg-id="mosfilm-zoloto" group-title="Кино и сериалы",Мосфильм. Золотая коллекция
 http://5.8.11.96:8099/mosfilmhd/index.m3u8
@@ -154,7 +156,7 @@ http://5.8.11.96:8099/mosfilmhd/index.m3u8
 http://tv.ttk.mx:9079
 
 #EXTINF:-1 tvg-chno="69" tvg-id="dom-kino-premium" group-title="Кино и сериалы",Дом Кино Премиум HD
-http://95.66.188.74/DomKinoPremiumHD/index.m3u8
+http://84.54.128.52:9090/play/a001/index.m3u8
 
 #EXTINF:-1 tvg-chno="65" tvg-id="nash-nov-kino" group-title="Кино и сериалы",Наше Новое Кино
 http://93.113.203.165/iptv/F5BM9GXMAPYBDK/19231/index.m3u8
@@ -163,7 +165,7 @@ http://93.113.203.165/iptv/F5BM9GXMAPYBDK/19231/index.m3u8
 http://93.113.203.165/iptv/F5BM9GXMAPYBDK/18036/index.m3u8
 
 #EXTINF:-1 tvg-chno="57" tvg-id="sts-love" group-title="Кино и сериалы",СТС Love
-http://95.66.188.74/CTC_Love/mono.m3u8
+http://31.148.48.15/STS_Love/index.m3u8
 
 #EXTINF:-1 tvg-chno="46" tvg-id="kinoko" group-title="Кино и сериалы",Кинеко
 http://31.148.48.15/Kineko/index.m3u8
@@ -175,7 +177,10 @@ http://31.148.48.15/Kineko_HD/index.m3u8
 http://193.27.209.122/dorama/index.m3u8
 
 #EXTINF:-1 tvg-chno="81" tvg-id="indiya" group-title="Кино и сериалы",Индия
-http://178.212.71.253:8000/play/59/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=zeetv
+
+#EXTINF:-1 tvg-chno="81" tvg-id="indiya" group-title="Кино и сериалы",BollywooD
+https://s07.watcher.uz/167/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 
 #EXTINF:-1 tvg-chno="47" tvg-id="sapfir" group-title="Кино и сериалы",Сапфир
 http://31.148.48.15/Sapfir/index.m3u8
@@ -197,7 +202,7 @@ http://193.25.8.59:8000/set
 http://193.25.8.59:8000/axn
 
 #EXTINF:-1 tvg-chno="165" tvg-id="black" group-title="Кино и сериалы",.black
-http://95.66.188.74/.black/index.m3u8
+http://176.118.197.125/Black/index.m3u8
 
 #EXTINF:-1 tvg-chno="53" tvg-id="kinotv" group-title="Кино и сериалы",Kино TB
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
@@ -223,10 +228,10 @@ http://catchup.videoline.ru/cinema/tracks-v1a1/mono.m3u8
 http://217.25.80.16/kamedi_hd/mono.m3u8
 
 #EXTINF:-1 tvg-chno="73" tvg-id="star-family" group-title="Кино и сериалы",Star Family HD
-http://84.245.224.71/StarFamilyHD/mono.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4157
 
 #EXTINF:-1 tvg-chno="74" tvg-id="star-cinema" group-title="Кино и сериалы",Star Cinema HD
-http://84.245.224.71/StarCinemaHD/mono.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
 
 #EXTINF:-1 tvg-chno="75" tvg-id="bolt" group-title="Кино и сериалы",Bolt HD
 http://api.peers.tv/timeshift/bolt_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjU1MjYxMDIsImlhdCI6MTc2NTQzOTcwMiwiY2lkIjo2LCJ1aWQiOjk3NDIwMjkyOCwicmVnIjpmYWxzZSwiaXAiOjM3NDYyNTI0LCJhZHVsdCI6ZmFsc2V9.NQWEh3F4WhTt9Gyn5fEXuPGTFKJpdaVaF5eo7IXTHRA&offset=10
@@ -306,7 +311,7 @@ http://vod.tuva.ru/nauka2/index.m3u8
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-chno="99" tvg-id="arsenal" group-title="Познавательные",Арсенал HD
-http://95.66.188.74/Arsenal_HD/index.m3u8
+https://s06.watcher.uz/120/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 
 #EXTINF:-1 tvg-chno="105" tvg-id="viju-history" group-title="Познавательные",Viju History
 http://158.101.222.193:88/georgia_play.php?id=viasathist
@@ -318,7 +323,7 @@ http://31.148.48.15:80/Istoriya/index.m3u8
 http://ott.watch/stream/6HAPZWKKG3/198.m3u8
 
 #EXTINF:-1 tvg-chno="108" tvg-id="usadba" group-title="Познавательные",Усадьба
-http://95.66.188.74/Usadba/index.m3u8
+http://193.25.8.59:8000/usadba
 
 #EXTINF:-1 tvg-chno="109" tvg-id="mama-tv" group-title="Познавательные",Мама
 http://stv.mediacdn.ru/live/cdn/mama/tracks-v1a1/mono.ts.m3u8
@@ -329,7 +334,7 @@ http://stv.mediacdn.ru/live/cdn/mama/tracks-v1a1/mono.ts.m3u8
 http://194.143.148.28:8080/RTD_HD/mpegts
 
 #EXTINF:-1 tvg-chno="113" tvg-id="tekhno24" group-title="Познавательные",Техно 24
-http://178.212.71.253:8000/play/63/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=24techno
 
 
 
@@ -355,16 +360,16 @@ http://ott.watch/stream/6HAPZWKKG3/275.m3u8
 http://ott.watch/stream/6HAPZWKKG3/274.m3u8
 
 #EXTINF:-1 tvg-chno="121" tvg-id="avto-plus" group-title="Познавательные",Авто Плюс
-http://178.212.71.253:8000/play/69/index.m3u8
+http://185.161.224.211/dash/Avto_Plus_SDngbg23480d.ism/playlist.mpd
 
 #EXTINF:-1 tvg-chno="122" tvg-id="avto24" group-title="Познавательные",Авто 24
 http://45.145.32.13:20440/avto24/index.m3u8?token=test
 
 #EXTINF:-1 tvg-chno="202" tvg-id="drive" group-title="Познавательные",Драйв
-http://95.66.188.74/Drive/index.m3u8
+http://185.164.82.18:9009/aDxLhVQm_Drive
 
 #EXTINF:-1 tvg-chno="127" tvg-id="hd-rex" group-title="Федеральные",Русский Экстрим
-http://178.212.71.253:8000/play/118/index.m3u8
+http://85.208.223.249:8888/play/a004
 
 
 
@@ -378,7 +383,7 @@ https://ix.goodgame.ru/hls/215291.m3u8?expires=1768812999&token=xmPLiJ93bTtUd3s_
 http://foxkids-online.ru/hls/test.m3u8
 
 #EXTINF:-1 tvg-chno="209" tvg-id="cartoon-classics" group-title="👶 ДЕТСКИЕ",Cartoon Classics
-http://95.66.188.74/Cartoon_Classics/index.m3u8
+http://146.120.14.239:3001/play/a08h
 
 #EXTINF:-1 tvg-chno="209" tvg-id="chip-n-dale" group-title="👶 ДЕТСКИЕ", Чип и Дейл 
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
@@ -446,7 +451,7 @@ http://45.145.32.13:20440/sony_turbo/index.m3u8?token=test
 http://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 
 #EXTINF:-1 tvg-chno="140" tvg-id="zhara" group-title="Музыкальные",Жара
-http://178.212.71.253:8000/play/141/index.m3u8
+http://31.148.48.15:80/Zhara/index.m3u8
 
 #EXTINF:-1 tvg-chno="141" tvg-id="muzyka-live" group-title="Музыкальные",Музыка Live
 http://31.148.48.15:80/La-Minor_TV/index.m3u8
@@ -454,20 +459,24 @@ http://31.148.48.15:80/La-Minor_TV/index.m3u8
 #EXTINF:-1 tvg-chno="142" tvg-id="tnt-music" group-title="Музыкальные",ТНТ Music 
 http://195.26.83.96:7029/play/9
 
-#EXTINF:-1 tvg-chno="143" tvg-id="bridge-russkiy-hit" group-title="Музыкальные",Bridge TV Русский Хит
-http://193.25.8.59:8000/rusong
+#EXTINF:-1 tvg-chno="143" tvg-id="europa-plus" group-title="Музыкальные",Europa Plus
+http://31.148.48.15/Europa_Plus_HD/index.m3u8
 
 #EXTINF:-1 tvg-chno="144" tvg-id="muzyka-pervogo" group-title="Музыкальные",Музыка Первого
 http://95.163.85.128/streams/media/muzyka-pervogo_720x576/index.m3u8
 
-#EXTINF:-1 tvg-chno="145" tvg-id="bridge-classic" group-title="Музыкальные",Bridge TV Classic
-http://178.212.71.253:8000/play/135/index.m3u8
+#EXTINF:-1 tvg-chno="145" tvg-id="bridge-russkiy-hit" group-title="Музыкальные",Bridge TV Русский Хит
+http://193.25.8.59:8000/rusong
 
-#EXTINF:-1 tvg-chno="146" tvg-id="europa-plus" group-title="Музыкальные",Europa Plus
-http://31.148.48.15/Europa_Plus_HD/index.m3u8
+#EXTINF:-1 tvg-chno="146" tvg-id="bridge-classic" group-title="Музыкальные",Bridge TV Classic
+http://31.148.48.15/Bridge_TV_Classic/index.m3u8
 
 #EXTINF:-1 tvg-chno="147" tvg-id="bridge-tv" group-title="Музыкальные",Bridge TV
-http://178.212.71.253:8000/play/110/index.m3u8
+http://31.148.48.15:80/Bridge_TV/index.m3u8?token=test
+
+
+
+
 
 
 
@@ -502,7 +511,7 @@ http://bsttv.bonus-tv.ru:80/cdn/hdbst/playlist_hdhigh.m3u8
 https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
 
 #EXTINF:-1 tvg-chno="161" tvg-id="russkiy-bestseller" group-title="Кино и сериалы",Русский Бестселлер
-http://178.212.71.253:8000/play/115/index.m3u8
+http://31.148.48.15/Russkiy_Bestseller/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="162" tvg-id="russkiy-detektiv" group-title="Кино и сериалы",Русский Детектив
 https://flussonic.salomtv.uz/russkiy_detektiv/video.m3u8
@@ -520,7 +529,7 @@ https://vod.splay.uz/live_splay/original/Kinopremera/tracks-v1a1/mono.m3u8
 https://vod.splay.uz/live_splay/original/Kinosemya/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="164" tvg-id="kinomix" group-title="Кино и сериалы",Киномикс
-http://95.66.188.74/Kinomiks/mono.m3u8
+http://93.170.254.17/Kinomiks/index.m3u8
 
 #EXTINF:-1 tvg-chno="172" tvg-id="kinohit" group-title="Кино и сериалы",Kиноxит HD
 http://195.26.83.96:7005/play/a00m/index.m3u8
@@ -532,7 +541,7 @@ http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
 http://158.101.222.193:88/georgia_play.php?id=kinokomediya
 
 #EXTINF:-1 tvg-chno="72" tvg-id="kinoseriya" group-title="Кино и сериалы",Киносерия
-http://95.66.188.74/Kinoseriya/mono.m3u8
+http://mfe01.cliptv.az/dash/Kinoseriya_SDkukuku6.ism/playlist.mpd
 
 #EXTINF:-1 tvg-chno="68" tvg-id="muzhskoe-kino" group-title="Кино и сериалы",Мужское Кино
 http://158.101.222.193:88/georgia_play.php?id=interesnoetv
@@ -554,7 +563,7 @@ http://45.145.32.13:20440/amedia_premium_hd/index.m3u8?token=test
 http://213.169.39.30:5006
 
 #EXTINF:-1 tvg-chno="215" tvg-id="tv1000" group-title="Кино и сериалы",Viju TV1000
-http://217.11.177.56/streams/media/tv1000_720x576/index.m3u8
+https://vod.splay.uz/live_splay/original/TV1000/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="216" tvg-id="tv1000-action" group-title="Кино и сериалы",Viju TV1000 Action
 https://flussonic.salomtv.uz/vijuTV1000action/video.m3u8
@@ -588,7 +597,7 @@ https://vod.splay.uz/live_splay/original/Kinokomediya/tracks-v1a1/mono.m3u8
 http://195.64.140.147:10082/82
 
 #EXTINF:-1 tvg-chno="178" tvg-id="pobeda-sd" group-title="Федеральные",Победа 
-http://178.212.71.253:8000/play/129/index.m3u8
+http://193.25.8.59:8000/tochka
 
 #EXTINF:-1 tvg-chno="181" tvg-id="fan-hd" group-title="Кино и сериалы",Fan HD
 http://ott.watch/stream/6HAPZWKKG3/420.m3u8
@@ -604,7 +613,7 @@ http://45.84.58.144:88/UMXXPGB3MZEVYZD5/ZFGTYZQZZ8FKSNX/127352
 
 
 #EXTINF:-1 tvg-chno="186" tvg-id="doktor" group-title="Познавательные",Доктор
-http://178.212.71.253:8000/play/68/index.m3u8
+http://45.11.139.43:8555/doctor/index.m3u8
 
 #EXTINF:-1 tvg-chno="187" tvg-id="365-dney" group-title="Познавательные",365 дней
 http://45.11.139.43:8555/365dney/index.m3u8
@@ -615,10 +624,10 @@ http://31.148.48.15:80/English_club_TV_HD/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="191" tvg-id="oruzhie" group-title="Познавательные",Оружие
-http://95.66.188.74/Oruzhie/mono.m3u8
+http://158.101.222.193:88/georgia_play.php?id=oruzhie
 
-#EXTINF:-1 tvg-chno="192" tvg-id="rtg" group-title="Познавательные",RTG HD
-http://95.66.188.74/RTGHD/index.m3u8
+#EXTINF:-1 tvg-chno="192" tvg-id="rtg" group-title="Познавательные",RTG
+http://31.148.48.15/RTG/tracks-v1a1/mono.m3u8?token=default
 
 #EXTINF:-1 tvg-chno="193" tvg-id="poechali" group-title="Познавательные",Поехали!
 http://31.148.48.15:80/Poehali/index.m3u8
@@ -669,14 +678,14 @@ https://flussonic.salomtv.uz/eurosport_2/video.m3u8
 http://193.25.8.59:8000/viasatsport
 
 #EXTINF:-1 tvg-chno="200" tvg-id="mma-tv" group-title="Спортивные",MMA-TV.COM
-http://93.170.254.17/MMATV/index.m3u8
+http://31.148.48.15:80/M1_Global/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="203" tvg-id="boks-tv" group-title="Спортивные",Бокс ТВ
 http://185.46.16.239:8000/Eurosport_1
 
 #EXTINF:-1 tvg-chno="123" tvg-id="match-arena" group-title="Спортивные",Матч! Арена
-http://178.212.71.253:8000/play/54/index.m3u8
+http://45.145.32.13:20440/match_arena/index.m3u8?token=test
 
 #EXTINF:-1 tvg-chno="120" tvg-id="match-boets" group-title="Спортивные",Матч Боец
 http://87.120.142.11:18000/Match!
@@ -688,7 +697,7 @@ https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a
 http://31.148.48.15/Match_Igra/index.m3u8
 
 #EXTINF:-1 tvg-chno="126" tvg-id="match-strana" group-title="Спортивные",Матч Страна
-http://95.163.85.128/streams/media/match-strana_720x576/index.m3u8
+http://45.145.32.13:20440/match_strana/index.m3u8?token=test
 
 #EXTINF:-1 tvg-chno="3" tvg-id="match-tv" group-title="Спортивные",Матч! ТВ
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
@@ -776,6 +785,7 @@ http://195.9.195.3:8080/hls/157269.m3u8
 
 #EXTINF:-1 tvg-chno="00" group-title="ИНФО",ОБНОВЛЕНИЕ: 18.12.2025г 12:16 
 https://iptvrus.github.io/z/info.mp4
+
 
 
 
