@@ -761,7 +761,7 @@ http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="30" tvg-id="moymir" group-title="Телемагазин",Мой Мир HD
 http://moymir.ru/hls/onair.m3u8
 
-#EXTINF:-1 tvg-chno="217" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="selecao-filmy" group-title="ТЕСТ",SeleCaoTV Фильмы (ТЕСТ)
+#EXTINF:-1 tvg-chno="217" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="selecao-filmy" group-title="ТЕСТ",SeleCaoTV Фильмы (ТЕСТ проверка)
 rtmp://vkvsd50.okcdn.ru/playback/7451172678442?stkn=JspYoYF2YFuNOYm4A91ErAt5brgMbfSyXL8SpfnXfKeyMPvd_gFAFhnyCJ5h_pt6Zzb68-vEbwM&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 
 #EXTINF:-1 tvg-chno="217" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="selecao-filmy" group-title="ТЕСТ",SeleCaoTV Фильмы (ТЕСТ1 не работает)
@@ -779,6 +779,7 @@ http://195.9.195.3:8080/hls/157269.m3u8
 
 #EXTINF:-1 tvg-chno="00" group-title="ИНФО",ОБНОВЛЕНИЕ: 18.12.2025г 12:16 
 https://iptvrus.github.io/z/info.mp4
+
 
 
 
