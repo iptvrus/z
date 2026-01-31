@@ -718,11 +718,11 @@ http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 
 
-#EXTINF:-1 tvg-chno="217" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="selecaotv-film" group-title="🎞️ Кинозалы",SeleCaoTV Фильмы (основной)
-rtmp://vkvsd50.okcdn.ru/playback/7451172678442?stkn=JspYoYF2YFuNOYm4A91ErAt5brgMbfSyXL8SpfnXfKeyMPvd_gFAFhnyCJ5h_pt6Zzb68-vEbwM&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 tvg-chno="217" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="selecao-filmy" group-title="🎞️ Кинозалы",SeleCaoTV Фильмы (зеркало лагает)
+https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/chunks.m3u8
 
-#EXTINF:-1 tvg-chno="218" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="selecaotv-serial" group-title="🎞️ Кинозалы",SeleCaoTV Сериалы (основной)
-http://85.198.100.140/hls/selecaotv-serial.m3u8
+#EXTINF:-1 tvg-chno="218" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="🎞️ Кинозалы",SeleCaoTV Сериалы (зеркало лагает)
+https://live20.bozztv.com/akamaissh101/ssh101/esperanza/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="🎞️ Кинозалы",Alpha Cinema
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
@@ -736,26 +736,14 @@ http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ht8ryzS9/nsc8689089087.png" tvg-id="no_epg_cinema" group-title="🎞️ Кинозалы",NSC
 https://live.15plusmg.ru/memfs/b778b5c8-907e-4193-850e-ea031aa551f4.m3u8
 
-#EXTINF:-1 tvg-logo="https://smotret.tv/images/scripach-tv.webp" tvg-id="no_epg_cinema" group-title="🎞️ Кинозалы", Скрипач ТВ
-https://kino-stream.online/hls/scripach.m3u8
-
 #EXTINF:-1 tvg-logo="https://smotret.tv/images/dtr-zona-1.webp" tvg-id="no_epg_cinema" group-title="🎞️ Кинозалы", DTRZONA1
 https://kino-stream.online/hls/DTRZONA1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5HD76RP.png" tvg-id="48917" group-title="🎞️ Кинозалы",VHDV TV 1080
-https://kino-stream.online/hls/vhdvtv.m3u8
 
 #EXTINF:-1 tvg-id="strk" group-title="🎞️ Кинозалы",СТРК HD
 http://sochinskayatrk.ru/hdtv/hls/CTPK_400/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m5xtPMJq/image-16.png" tvg-id="no_epg_cinema" group-title="🎞️ Кинозалы", Kino Mix
-https://kino-stream.online/hls/kinomix.m3u8
 
-#EXTINF:-1 tvg-chno="217" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="selecao-filmy" group-title="🎞️ Кинозалы",SeleCaoTV Фильмы (зеркало лагает)
-https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/chunks.m3u8
 
-#EXTINF:-1 tvg-chno="218" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="🎞️ Кинозалы",SeleCaoTV Сериалы (зеркало лагает)
-https://live20.bozztv.com/akamaissh101/ssh101/esperanza/chunks.m3u8
 
 
 
@@ -776,22 +764,21 @@ http://moymir.ru/hls/onair.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="217" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="selecao-filmy" group-title="ТЕСТ",SeleCaoTV Фильмы
+#EXTINF:-1 tvg-chno="217" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="selecao-filmy" group-title="ТЕСТ",SeleCaoTV Фильмы (ТЕСТ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://goodgame.ru
 http://195.9.195.3:8080/hls/163253.m3u8
 
-#EXTINF:-1 tvg-chno="218" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="ТЕСТ",SeleCaoTV Сериалы
+#EXTINF:-1 tvg-chno="218" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="ТЕСТ",SeleCaoTV Сериалы (ТЕСТ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://goodgame.ru
 http://195.9.195.3:8080/hls/157269.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z7BXnPQ.png" group-title="Кинозалы",Kino walk FHD
-https://kinowalk.hopto.org/kinowalk_live
 
 
 #EXTINF:-1 tvg-chno="00" group-title="ИНФО",ОБНОВЛЕНИЕ: 18.12.2025г 12:16 
 https://iptvrus.github.io/z/info.mp4
+
 
 
 
