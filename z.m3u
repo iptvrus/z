@@ -719,7 +719,7 @@ https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFX
 
 
 #EXTINF:-1 tvg-chno="217" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="selecaotv-film" group-title="🎞️ Кинозалы",SeleCaoTV Фильмы (основной)
-http://85.198.100.140/hls/selecaotv-film.m3u8
+rtmp://vkvsd50.okcdn.ru/playback/7451172678442?stkn=JspYoYF2YFuNOYm4A91ErAt5brgMbfSyXL8SpfnXfKeyMPvd_gFAFhnyCJ5h_pt6Zzb68-vEbwM&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 
 #EXTINF:-1 tvg-chno="218" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="selecaotv-serial" group-title="🎞️ Кинозалы",SeleCaoTV Сериалы (основной)
 http://85.198.100.140/hls/selecaotv-serial.m3u8
@@ -732,6 +732,9 @@ http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="🎞️ Кинозалы",Alpha Moretime
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ht8ryzS9/nsc8689089087.png" tvg-id="no_epg_cinema" group-title="🎞️ Кинозалы",NSC
+https://live.15plusmg.ru/memfs/b778b5c8-907e-4193-850e-ea031aa551f4.m3u8
 
 #EXTINF:-1 tvg-logo="https://smotret.tv/images/scripach-tv.webp" tvg-id="no_epg_cinema" group-title="🎞️ Кинозалы", Скрипач ТВ
 https://kino-stream.online/hls/scripach.m3u8
@@ -786,6 +789,7 @@ http://195.9.195.3:8080/hls/157269.m3u8
 
 #EXTINF:-1 tvg-chno="00" group-title="ИНФО",ОБНОВЛЕНИЕ: 18.12.2025г 12:16 
 https://iptvrus.github.io/z/info.mp4
+
 
 
 
