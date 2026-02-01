@@ -719,11 +719,11 @@ https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFX
 
 
 
-#EXTINF:-1 tvg-name="SeleCaoTV" tvg-logo="https://kino-stream.online/logo/SeleCaoTV.png" tvg-id="selecao-filmy" group-title="🎞️ Кинозалы", SeleCaoTV Фильмы (основной работает только на ТЕЛЕВИЗИО)
+#EXTINF:-1 tvg-logo="https://kino-stream.online/logo/SeleCaoTV.png" tvg-id="selecao-filmy" group-title="🎞️ Кинозалы", SeleCaoTV Фильмы (основной работает только на ТЕЛЕВИЗИО)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
 rtmp://vkvsd50.okcdn.ru/playback/7451172678442?stkn=JspYoYF2YFuNOYm4A91ErAt5brgMbfSyXL8SpfnXfKeyMPvd_gFAFhnyCJ5h_pt6Zzb68-vEbwM&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 
-#EXTINF:-1 tvg-name="SeleCaoTV 2" tvg-logo="https://kino-stream.online/logo/SeleCaoTV.png" tvg-id="selecao-serials" group-title="🎞️ Кинозалы", SeleCaoTV Сериалы (основной работает только на ТЕЛЕВИЗИО)
+#EXTINF:-1 tvg-logo="https://kino-stream.online/logo/SeleCaoTV.png" tvg-id="selecao-serials" group-title="🎞️ Кинозалы", SeleCaoTV Сериалы (основной работает только на ТЕЛЕВИЗИО)
 #EXTVLCOPT:http-user-agent=https://oauth.vk.com/ token?scope
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
 rtmp://vkvsd259.okcdn.ru/playback/8022010243907?stkn=XxnMG-Vfkr05g5wTi8O636VM8-EWvNcuYlfTGF6DGRSG2vcMGtr83CSg5bTckq27GDAkuzBlNjU&uid=0&sp=uid,sp&sig=vlibqm4nyu
@@ -772,9 +772,6 @@ http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="30" tvg-id="moymir" group-title="Телемагазин",Мой Мир HD
 http://moymir.ru/hls/onair.m3u8
 
-#EXTINF:-1 tvg-chno="217" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="selecao-filmy" group-title="ТЕСТ",SeleCaoTV Фильмы (ТЕСТ проверка)
-rtmp://vkvsd50.okcdn.ru/playback/7451172678442?stkn=JspYoYF2YFuNOYm4A91ErAt5brgMbfSyXL8SpfnXfKeyMPvd_gFAFhnyCJ5h_pt6Zzb68-vEbwM&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-
 #EXTINF:-1 tvg-chno="217" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="selecao-filmy" group-title="ТЕСТ",SeleCaoTV Фильмы (ТЕСТ1 не работает)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://goodgame.ru
@@ -790,6 +787,7 @@ http://195.9.195.3:8080/hls/157269.m3u8
 
 #EXTINF:-1 tvg-chno="00" group-title="ИНФО",ОБНОВЛЕНИЕ: 18.12.2025г 12:16 
 https://iptvrus.github.io/z/info.mp4
+
 
 
 
