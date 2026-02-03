@@ -783,10 +783,64 @@ http://195.9.195.3:8080/hls/163253.m3u8
 http://195.9.195.3:8080/hls/157269.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z7BXnPQ.png",Kinowalk 
+#EXTGRP:🎞️ КиноStream
+http://kinowalk.hopto.org/kinowalk_live
+#EXTINF:-1 tvg-id="48917" tvg-logo="https://i.imgur.com/FOhNoZe.png",Legion tv 
+#EXTGRP:🎞️ КиноStream
+http://kinowalk.hopto.org/legion-tv_live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iu3SbGG.png",KinoMix 
+#EXTGRP:🎞️ КиноStream
+http://kinowalk.hopto.org/yurich_kinomix_live
+#EXTINF:-1 tvg-id="49811" tvg-logo="https://i.imgur.com/WUNc721.png",Scripach tv
+#EXTGRP:🎞️ КиноStream
+http://kinowalk.hopto.org/scripachtv_live
+#EXTINF:-1 tvg-name="KinoJam" tvg-logo="https://i.postimg.cc/ZK8brxhb/Kino-Jam.png", KinoJam
+#EXTGRP:🎞️ КиноStream
+http://kinowalk.hopto.org/kinojam_live
+#EXTINF:-1 tvg-name="VideoArsenal" tvg-logo="https://i.postimg.cc/MTw7GvDw/Video-Arsenal.png", VideoArsenal
+#EXTGRP:🎞️ КиноStream
+http://kinowalk.hopto.org/videoarsenal_live
+#EXTINF:-1 tvg-name="Video_Prokat" tvg-logo="https://images.live.vkplay.ru/user/18142699/avatar?change_time=1696376813&croped=1&mh=140&mw=140", Video_Prokat
+#EXTGRP:🎞️ КиноStream
+http://kinowalk.hopto.org/video_prokat_live
+#EXTINF:-1 tvg-name="MovieToper" tvg-logo="https://goodgame.ru/files/avatars/av_1676704_9wc1.jpg", MovieToper
+#EXTGRP:🎞️ КиноStream
+http://kinowalk.hopto.org/movietoper_live
+#EXTINF:-1 tvg-name="TimeToHorror" tvg-logo="https://images.live.vkvideo.ru/user/18457974/avatar?change_time=1758279827&croped=1&mh=140&mw=140", TimeToHorror
+#EXTGRP:🎞️ КиноStream
+http://kinowalk.hopto.org/timetohorror_live
+#EXTINF:-1 tvg-name="TimeToMovie" tvg-logo="https://images.live.vkplay.ru/user/18457965/avatar?change_time=1717150729&croped=1&mh=140&mw=140", TimeToMovie
+#EXTGRP:🎞️ КиноStream
+http://kinowalk.hopto.org/timetomovie_live
+#EXTINF:-1 tvg-name="Blockbusters Time" tvg-logo="https://images.live.vkvideo.ru/user/23770117/avatar?change_time=1767918213&croped=1&mh=140&mw=140", Blockbusters Time
+#EXTGRP:🎞️ КиноStream
+http://kinowalk.hopto.org/blockbusterstime_live
+#EXTINF:-1 tvg-name="Cinema Time" tvg-logo="https://images.live.vkvideo.ru/user/23803295/avatar?change_time=1767804459&croped=1&mh=140&mw=140", Cinema Time
+#EXTGRP:🎞️ КиноStream
+http://kinowalk.hopto.org/cinemaa_live
+#EXTINF:-1 tvg-name="Dimpon TV" tvg-logo="https://goodgame.ru/files/avatars/av_1643154_P8Jo.jpg", Dimpon TV
+#EXTGRP:🎞️ КиноStream
+http://kinowalk.hopto.org/dimpon_live
+#EXTINF:-1 tvg-id="43064" tvg-name="Malder vse tv" tvg-logo="https://images.live.vkvideo.ru/user/29545720/avatar?change_time=1760619525&croped=1&mh=140&mw=140", Малдер Всё ТВ
+#EXTGRP:🎞️ КиноStream
+http://kinowalk.hopto.org/vsetv_live
+#EXTINF:-1 tvg-name="wihail" tvg-logo="https://images.live.vkvideo.ru/user/19829671/avatar?change_time=1734328186&croped=1&mh=140&mw=140", wihail
+#EXTGRP:🎞️ КиноStream
+http://kinowalk.hopto.org/wihail_live
+#EXTINF:-1 tvg-name="kinolampa" tvg-logo="https://images.live.vkplay.ru/user/18921611/avatar?change_time=1714646402&croped=1&mh=140&mw=140", kinolampa
+#EXTGRP:🎞️ КиноStream
+http://kinowalk.hopto.org/kinolampa_live
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-chno="00" group-title="ИНФО",ОБНОВЛЕНИЕ: 18.12.2025г 12:16 
 https://iptvrus.github.io/z/info.mp4
+
 
 
 
