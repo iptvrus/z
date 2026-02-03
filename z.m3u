@@ -831,8 +831,12 @@ http://kinowalk.hopto.org/wihail_live
 #EXTINF:-1 tvg-name="kinolampa" tvg-logo="https://images.live.vkplay.ru/user/18921611/avatar?change_time=1714646402&croped=1&mh=140&mw=140", kinolampa
 #EXTGRP:🎞️ КиноStream
 http://kinowalk.hopto.org/kinolampa_live
-
-
+#EXTINF:-1 tvg-name="selecaotv-films" tvg-logo="https://kino-stream.online/logo/SeleCaoTV.png", SeleCaoTV Фильмы
+#EXTGRP:🎞️ КиноStream
+http://kinowalk.hopto.org/selecaotv
+#EXTINF:-1 tvg-name="selecaotv-films" tvg-logo="https://kino-stream.online/logo/SeleCaoTV.png", SeleCaoTV Сериалы
+#EXTGRP:🎞️ КиноStream
+http://kinowalk.hopto.org/selecaotv1
 
 
 
@@ -840,6 +844,7 @@ http://kinowalk.hopto.org/kinolampa_live
 
 #EXTINF:-1 tvg-chno="00" group-title="ИНФО",ОБНОВЛЕНИЕ: 18.12.2025г 12:16 
 https://iptvrus.github.io/z/info.mp4
+
 
 
 
