@@ -720,6 +720,7 @@ https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFX
 
 
 #EXTINF:-1  tvg-id="selecao-filmy" tvg-name="selecaotv-films" tvg-logo="https://kino-stream.online/logo/SeleCaoTV.png" group-title="🎞️ Кинозалы", SeleCaoTV Фильмы (основной)
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset_p=${offset}000"
 http://kinowalk.hopto.org/selecaotv_live
 
 #EXTINF:-1 tvg-id="selecao-filmy" tvg-name="selecaotv-serials" tvg-logo="https://kino-stream.online/logo/SeleCaoTV.png" group-title="🎞️ Кинозалы", SeleCaoTV Сериалы (основной)
@@ -848,6 +849,7 @@ http://kinowalk.hopto.org/kinolampa_live
 
 #EXTINF:-1 tvg-chno="00" group-title="ИНФО",ОБНОВЛЕНИЕ: 18.12.2025г 12:16 
 https://iptvrus.github.io/z/info.mp4
+
 
 
 
