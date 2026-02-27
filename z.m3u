@@ -719,10 +719,10 @@ https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFX
 
 
 
-#EXTINF:-1  tvg-id="selecao-filmy" tvg-name="selecaotv-films" tvg-logo="https://kino-stream.online/logo/SeleCaoTV.png" group-title="🎞️ Кинозалы", SeleCaoTV Фильмы (основной)
+#EXTINF:-1  tvg-id="selecao-filmy" tvg-logo="https://kino-stream.online/logo/SeleCaoTV.png" group-title="🎞️ Кинозалы", SeleCaoTV Фильмы (основной)
 http://kinowalk.hopto.org/selecaotv_live
 
-#EXTINF:-1 tvg-id="selecao-filmy" tvg-name="selecaotv-serials" tvg-logo="https://kino-stream.online/logo/SeleCaoTV.png" group-title="🎞️ Кинозалы", SeleCaoTV Сериалы (основной)
+#EXTINF:-1 tvg-id="selecao-filmy" tvg-logo="https://kino-stream.online/logo/SeleCaoTV.png" group-title="🎞️ Кинозалы", SeleCaoTV Сериалы (основной)
 http://kinowalk.hopto.org/selecaotv1_live
 
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="🎞️ Кинозалы",Alpha Cinema
@@ -846,6 +846,7 @@ http://195.9.195.3:8080/hls/157269.m3u8
 
 #EXTINF:-1 tvg-chno="00" group-title="ИНФО",ОБНОВЛЕНИЕ: 18.12.2025г 12:16 
 https://iptvrus.github.io/z/info.mp4
+
 
 
 
