@@ -779,37 +779,45 @@ http://kinowalk.hopto.org/kinojam_liv
 #EXTINF:-1 tvg-id="49811" tvg-logo="https://i.imgur.com/WUNc721.png" group-title="🎞️ Кинозалы",Scripach tv
 http://kinowalk.hopto.org/scripachtv_live
 
-
-#EXTINF:-1 tvg-id="49811" tvg-logo="" group-title="🎞️ Кинозалы",Малдер Мегахит HD
+#EXTINF:-1 tvg-id="49811" tvg-logo="https://images.live.vkvideo.ru/user/29545720/avatar?change_time=1760619525&croped=1&mh=140&mw=140" group-title="🎞️ Кинозалы",Малдер Мегахит HD
 http://kinowalk.hopto.org/maldrvsetv_live
 
 #EXTINF:-1 tvg-name="VideoArsenal" tvg-logo="https://i.postimg.cc/MTw7GvDw/Video-Arsenal.png", VideoArsenal
 #EXTGRP:🎞️ Кинозалы
 http://kinowalk.hopto.org/videoarsenal_live
+
 #EXTINF:-1 tvg-name="Video_Prokat" tvg-logo="https://images.live.vkplay.ru/user/18142699/avatar?change_time=1696376813&croped=1&mh=140&mw=140", Video_Prokat
 #EXTGRP:🎞️ Кинозалы
 http://kinowalk.hopto.org/video_prokat_live
+
 #EXTINF:-1 tvg-name="MovieToper" tvg-logo="https://goodgame.ru/files/avatars/av_1676704_9wc1.jpg", MovieToper
 #EXTGRP:🎞️ Кинозалы
 http://kinowalk.hopto.org/movietoper_live
+
 #EXTINF:-1 tvg-name="TimeToHorror" tvg-logo="https://images.live.vkvideo.ru/user/18457974/avatar?change_time=1758279827&croped=1&mh=140&mw=140", TimeToHorror
 #EXTGRP:🎞️ Кинозалы
 http://kinowalk.hopto.org/timetohorror_live
+
 #EXTINF:-1 tvg-name="TimeToMovie" tvg-logo="https://images.live.vkplay.ru/user/18457965/avatar?change_time=1717150729&croped=1&mh=140&mw=140", TimeToMovie
 #EXTGRP:🎞️ Кинозалы
 http://kinowalk.hopto.org/timetomovie_live
+
 #EXTINF:-1 tvg-name="Blockbusters Time" tvg-logo="https://images.live.vkvideo.ru/user/23770117/avatar?change_time=1767918213&croped=1&mh=140&mw=140", Blockbusters Time
 #EXTGRP:🎞️ Кинозалы
 http://kinowalk.hopto.org/blockbusterstime_live
+
 #EXTINF:-1 tvg-name="Cinema Time" tvg-logo="https://images.live.vkvideo.ru/user/23803295/avatar?change_time=1767804459&croped=1&mh=140&mw=140", Cinema Time
 #EXTGRP:🎞️ Кинозалы
 http://kinowalk.hopto.org/cinemaa_live
+
 #EXTINF:-1 tvg-name="Dimpon TV" tvg-logo="https://goodgame.ru/files/avatars/av_1643154_P8Jo.jpg", Dimpon TV
 #EXTGRP:🎞️ Кинозалы
 http://kinowalk.hopto.org/dimpon_live
+
 #EXTINF:-1 tvg-id="43064" tvg-name="Malder vse tv" tvg-logo="https://images.live.vkvideo.ru/user/29545720/avatar?change_time=1760619525&croped=1&mh=140&mw=140", Малдер Всё ТВ
 #EXTGRP:🎞️ Кинозалы
 http://kinowalk.hopto.org/vsetv_live
+
 #EXTINF:-1 tvg-name="wihail" tvg-logo="https://images.live.vkvideo.ru/user/19829671/avatar?change_time=1734328186&croped=1&mh=140&mw=140", wihail
 #EXTGRP:🎞️ Кинозалы
 http://kinowalk.hopto.org/wihail_live
