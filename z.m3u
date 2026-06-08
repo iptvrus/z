@@ -84,7 +84,7 @@ http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_KZN_TMTV/variant.m3u8
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_MAIDAN/variant.m3u8?version=2
 
 #EXTINF:-1 tvg-chno="27" tvg-id="tugan-tel" group-title="Татарстан",Туган Тел
-http://streamer.rtcommufa.ru:1935/tugantel/hd/playlist.m3u8
+https://stream8.cinerama.uz/1261/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="28" tvg-id="matur-tv" group-title="Татарстан",Матур ТВ 
 https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
@@ -100,7 +100,7 @@ https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/tracks-v1a1/mo
 
 
 #EXTINF:-1 tvg-chno="135" tvg-id="tlc" group-title="Развлекательные",TLC
-http://172.67.200.229/tlc_hd/index.m3u8
+http://46.32.176.50/tlc/index.m3u8
 
 #EXTINF:-1 tvg-chno="31" tvg-id="che" group-title="Развлекательные",Че
 http://31.148.48.15/Che/index.m3u8
@@ -120,14 +120,11 @@ http://31.148.48.15/KVN_TV/index.m3u8
 #EXTINF:-1 tvg-chno="85" tvg-id="2x2" group-title="Развлекательные",2x2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 
-#EXTINF:-1 tvg-chno="87" tvg-id="appetitny" group-title="Развлекательные",Аппетитный
-https://kino.zunotv.workers.dev/appetitniy_hd/index.m3u8
-
 #EXTINF:-1 tvg-chno="87" tvg-id="kuhnya" group-title="Развлекательные",Кухня
 http://93.84.115.174:10181/kuhnia
 
 #EXTINF:-1 tvg-chno="87" tvg-id="kuhnya" group-title="Развлекательные",Food Time HD
-http://172.67.223.127/?ID=457
+http://api.peers.tv/timeshift/eda_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODA5NDUwODksImlhdCI6MTc4MDg1ODY4OSwiY2lkIjo2LCJ1aWQiOjEwNTI5MTk2NDIsInJlZyI6ZmFsc2UsImlwIjozMjYwNTA5MTY3LCJhZHVsdCI6ZmFsc2V9.8Y6d4PVYsLedeE9Vz32SJaqherTk3HsvrXIJZ7djkV8&offset=10
 
 #EXTINF:-1 tvg-chno="87" tvg-id="kuhnya" group-title="Развлекательные",Еда
 http://104.21.44.150/eda/index.m3u8
@@ -136,7 +133,7 @@ http://104.21.44.150/eda/index.m3u8
 http://31.148.48.15/Telekafe/index.m3u8
 
 #EXTINF:-1 tvg-chno="88" tvg-id="ntv-stil" group-title="Развлекательные",НТВ Стиль
-http://104.21.44.150/ntv_stil_hd/index.m3u8
+http://cdn.kubteltv.workers.dev/?ID=330
 
 #EXTINF:-1 tvg-chno="84" tvg-id="myzen" group-title="Развлекательные",Myzen TV
 http://91.194.191.241:8081/chid417/tracks-v1a1/mono.m3u8
@@ -161,13 +158,13 @@ http://s06.wsbof.com:8090/s/9b6f8047/mosfilm-hd-orig.m3u8
 https://s03.watcher.uz/46/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
 
 #EXTINF:-1 tvg-chno="69" tvg-id="dom-kino-premium" group-title="Кино и сериалы",Дом Кино Премиум HD
-http://172.67.223.127/?ID=272
+http://cdn.kubteltv.workers.dev/?ID=272
 
 #EXTINF:-1 tvg-chno="65" tvg-id="nash-nov-kino" group-title="Кино и сериалы",Наше Новое Кино
 http://93.84.115.174:10181/nashenovoekino
 
 #EXTINF:-1 tvg-chno="52" tvg-id="start-air" group-title="Кино и сериалы",Start Air
-http://172.67.223.127/?ID=372
+http://217.174.229.136:8000/play/a099
 
 #EXTINF:-1 tvg-chno="57" tvg-id="sts-love" group-title="Кино и сериалы",СТС Love
 http://31.148.48.15/STS_Love/index.m3u8
@@ -190,11 +187,8 @@ https://s07.watcher.uz/167/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9
 #EXTINF:-1 tvg-chno="47" tvg-id="sapfir" group-title="Кино и сериалы",Сапфир 
 http://31.148.48.15/Sapfir/index.m3u8
 
-#EXTINF:-1 tvg-chno="48" tvg-id="sapfir" tvg-name="Сапфир HD" group-title="Кино и сериалы",Сапфир ᴴᴰ
-http://172.67.223.127/?ID=132
-
-#EXTINF:-1 tvg-chno="182" tvg-id="start-world" group-title="Кино и сериалы",Start World ᴴᴰ
-http://172.67.223.127/?ID=371
+#EXTINF:-1 tvg-chno="182" tvg-id="start-world" group-title="Кино и сериалы",Start World
+http://217.174.229.136:8000/play/a09a
 
 #EXTINF:-1 tvg-chno="80" tvg-id="romantichnoe" group-title="Кино и сериалы",Романтичное ᴴᴰ
 http://45.156.223.202/iptv/F5BM9GXMAPYBDK/5053/index.m3u8
@@ -237,14 +231,14 @@ http://catchup.videoline.ru/cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno="71" tvg-id="kamedi-hd" group-title="Кино и сериалы",Камеди ᴴᴰ
 http://45.156.223.202/iptv/F5BM9GXMAPYBDK/9091/index.m3u8
 
-#EXTINF:-1 tvg-chno="73" tvg-id="star-family" group-title="Кино и сериалы",Star Family ᴴᴰ
-http://172.67.200.229/star_family_hd/index.m3u8
+#EXTINF:-1 tvg-chno="73" tvg-id="star-family" group-title="Кино и сериалы",Star Family 
+http://217.174.229.136:8000/play/a04u
 
-#EXTINF:-1 tvg-chno="74" tvg-id="star-cinema" group-title="Кино и сериалы",Star Cinema ᴴᴰ
-http://172.67.200.229/star_cinema_hd/index.m3u8
+#EXTINF:-1 tvg-chno="74" tvg-id="star-cinema" group-title="Кино и сериалы",Star Cinema
+http://193.25.8.59:8000/FilmBOX
 
-#EXTINF:-1 tvg-chno="75" tvg-id="bolt" group-title="Кино и сериалы",Bolt ᴴᴰ
-http://172.67.200.229/bolt_hd/index.m3u8
+#EXTINF:-1 tvg-chno="75" tvg-id="bolt" group-title="Кино и сериалы",Bolt
+http://83.217.12.157:81/udp/239.1.1.105:1234
 
 #EXTINF:-1 tvg-chno="76" tvg-id="ntv-hit" group-title="Кино и сериалы",НТВ Хит
 http://cdn2.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
@@ -272,10 +266,10 @@ http://tinyurl.com/TvZaTak20/ushba44/index.m3u8
 http://45.156.223.202/iptv/F5BM9GXMAPYBDK/14017/index.m3u8
 
 #EXTINF:-1 tvg-chno="96" tvg-id="terra" group-title="Познавательные",Terra
-http://172.67.200.229/terra_hd/index.m3u8
+http://195.26.83.96:7009/play/a00j/index.m3u8
 
 #EXTINF:-1 tvg-chno="92" tvg-id="lapki" group-title="Развлекательные",Лапки Live
-http://172.67.223.127/?ID=321
+http://cdn.kubteltv.workers.dev/?ID=321
 
 #EXTINF:-1 tvg-chno="93" tvg-id="v-mire-zhivotnyh" group-title="Познавательные",В Мире Животных 
 https://s06.watcher.uz/118/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
@@ -311,10 +305,10 @@ http://46.32.176.50/bigplanet/index.m3u8
 http://31.148.48.15:80/Moya_Planeta_HD/index.m3u8
 
 #EXTINF:-1 tvg-chno="101" tvg-id="okean" group-title="Познавательные",Океан TV HD
-https://kino.zunotv.workers.dev/ocean_hd/index.m3u8
+http://93.84.115.174:10181/oceantv
 
-#EXTINF:-1 tvg-chno="103" tvg-id="da-vinci" group-title="Познавательные",Да Винчи
-http://158.101.222.193:88/georgia_play.php?id=davinci
+#EXTINF:-1 tvg-chno="103" tvg-id="da-vinci" group-title="Познавательные",Da Vinci
+http://cdn.kubteltv.workers.dev/?ID=261
 
 #EXTINF:-1 tvg-chno="102" tvg-id="nauka" group-title="Познавательные",Наука
 http://vod.tuva.ru/nauka2/index.m3u8
@@ -341,7 +335,7 @@ http://46.32.176.50/bobertv/index.m3u8
 http://193.25.8.59:8000/usadba
 
 #EXTINF:-1 tvg-chno="186" tvg-id="zagorodny" group-title="Познавательные",Загородный
-https://kino.zunotv.workers.dev/zagorodniy/index.m3u8
+https://stream8.cinerama.uz/1044/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="109" tvg-id="mama-tv" group-title="Познавательные",Мама
 http://178.218.204.217/1244/tracks-v1a1/mono.m3u8
