@@ -127,7 +127,7 @@ http://93.84.115.174:10181/kuhnia
 http://api.peers.tv/timeshift/eda_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODA5NDUwODksImlhdCI6MTc4MDg1ODY4OSwiY2lkIjo2LCJ1aWQiOjEwNTI5MTk2NDIsInJlZyI6ZmFsc2UsImlwIjozMjYwNTA5MTY3LCJhZHVsdCI6ZmFsc2V9.8Y6d4PVYsLedeE9Vz32SJaqherTk3HsvrXIJZ7djkV8&offset=10
 
 #EXTINF:-1 tvg-chno="87" tvg-id="kuhnya" group-title="Развлекательные",Еда
-http://104.21.44.150/eda/index.m3u8
+http://93.84.115.174:10181/edahd
 
 #EXTINF:-1 tvg-chno="86" tvg-id="telekafe" group-title="Развлекательные",Телекафе
 http://31.148.48.15/Telekafe/index.m3u8
@@ -420,7 +420,7 @@ https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 
 #EXTINF:-1 tvg-chno="134" tvg-id="o-tv" group-title="👶 ДЕТСКИЕ",О!
-http://172.67.223.127/?ID=270
+http://91.221.252.12:82/tv38
 
 #EXTINF:-1 tvg-chno="208" tvg-id="ani" group-title="👶 ДЕТСКИЕ",Ani
 http://46.32.176.50/anitv/index.m3u8
@@ -450,7 +450,7 @@ http://45.145.32.13:20440/tiji/index.m3u8?token=test
 https://s06.watcher.uz/121/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 
 #EXTINF:-1 tvg-chno="129" tvg-id="ducktv" group-title="👶 ДЕТСКИЕ",KidZone Mini
-http://104.17.112.233/23dkgmjm
+http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/18005/index.m3u8
 
 #EXTINF:-1 tvg-chno="136" tvg-id="ryzhiy" group-title="👶 ДЕТСКИЕ",Рыжий
 http://31.148.48.15:80/Rizhiy/index.m3u8
@@ -468,7 +468,7 @@ https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="212" tvg-id="smiletv" group-title="👶 ДЕТСКИЕ",Смайл ТВ
-http://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
+https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 
 
 
@@ -593,10 +593,10 @@ http://213.169.39.30:5006
 https://vod.splay.uz/live_splay/original/TV1000/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="216" tvg-id="tv1000-action" group-title="Кино и сериалы",Viju TV1000 Action
-http://172.67.223.127/?ID=192
+http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
 
 #EXTINF:-1 tvg-chno="216" tvg-id="tv1000-romantica" group-title="Кино и сериалы",Viju TV1000 Romantica
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=FjbYpn46bZ-WvQANOmfnGw&e=1765028785&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=FxYe5ZCz8NE8pDjARC4ebQ&e=1781208738&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 
 #EXTINF:-1 tvg-chno="163" tvg-id="viju-megahit" group-title="Кино и сериалы",Viju+ Megahit HD
 http://46.20.207.142/vipmegahit/index.m3u8
