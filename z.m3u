@@ -769,28 +769,28 @@ http://kinowalk.hopto.org/selecaotv_live
 #EXTINF:-1 tvg-id="selecao-filmy" tvg-logo="https://kino-stream.online/logo/SeleCaoTV.png" group-title="🎞️ Кинозалы",SeleCaoTV Сериалы
 http://kinowalk.hopto.org/selecaotv1_live
 
-#EXTINF:-1 tvg-name="MovieToper" tvg-logo="https://goodgame.ru/files/avatars/av_1676704_9wc1.jpg" group-title="🎞️ Кинозалы",MovieToper
+#EXTINF:-1 tvg-id="movietoper" tvg-logo="https://goodgame.ru/files/avatars/av_1676704_9wc1.jpg" group-title="🎞️ Кинозалы",MovieToper
 http://kinowalk.hopto.org/movietoper_live
 
-#EXTINF:-1 tvg-name="КиноНонСтоп" tvg-logo="https://images.live.vkvideo.ru/user/31319363/avatar?change_time=1771434873&croped=1&mh=140&mw=140" group-title="🎞️ Кинозалы", КиноНонСтоп
+#EXTINF:-1 tvg-id="kinononstop" tvg-logo="https://images.live.vkvideo.ru/user/31319363/avatar?change_time=1771434873&croped=1&mh=140&mw=140" group-title="🎞️ Кинозалы", КиноНонСтоп
 http://kinowalk.hopto.org/nonestopmovie_live
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z7BXnPQ.png" group-title="🎞️ Кинозалы",KinoWalk 
+#EXTINF:-1 tvg-id="kinowalk" tvg-logo="https://i.imgur.com/Z7BXnPQ.png" group-title="🎞️ Кинозалы",KinoWalk 
 http://kinowalk.hopto.org/kinowalk_live
 
-#EXTINF:-1 tvg-name="kinolampa" tvg-logo="https://images.live.vkplay.ru/user/18921611/avatar?change_time=1714646402&croped=1&mh=140&mw=140" group-title="🎞️ Кинозалы",KinoLampa
+#EXTINF:-1 tvg-id="kinolampa" tvg-name="kinolampa" tvg-logo="https://images.live.vkplay.ru/user/18921611/avatar?change_time=1714646402&croped=1&mh=140&mw=140" group-title="🎞️ Кинозалы",KinoLampa
 http://kinowalk.hopto.org/kinolampa_live
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iu3SbGG.png" group-title="🎞️ Кинозалы",KinoMix Юрич
+#EXTINF:-1 tvg-id="kinomix-yurich" tvg-logo="https://i.imgur.com/iu3SbGG.png" group-title="🎞️ Кинозалы",KinoMix Юрич
 http://kinowalk.hopto.org/yurich_kinomix_live
 
-#EXTINF:-1 tvg-name="KinoJam" tvg-logo="https://i.postimg.cc/ZK8brxhb/Kino-Jam.png" group-title="🎞️ Кинозалы",KinoJam
+#EXTINF:-1 tvg-id="kinojam" tvg-logo="https://i.postimg.cc/ZK8brxhb/Kino-Jam.png" group-title="🎞️ Кинозалы",KinoJam
 http://kinowalk.hopto.org/kinojam_live
 
 #EXTINF:-1 tvg-id="49811" tvg-logo="https://i.imgur.com/WUNc721.png" group-title="🎞️ Кинозалы",Scripach TV
 http://kinowalk.hopto.org/scripachtv_live
 
-#EXTINF:-1 tvg-name="Solo ink" tvg-logo="https://kinowalk.hopto.org/web/image/218/128x128?unique=2026-02-24%2017:40:47.422997&access_token=f67f6256-bd3e-439b-93fd-6a635aa57fd4" group-title="🎞️ Кинозалы", Solo ink
+#EXTINF:-1 tvg-id="soloink" tvg-logo="https://kinowalk.hopto.org/web/image/218/128x128?unique=2026-02-24%2017:40:47.422997&access_token=f67f6256-bd3e-439b-93fd-6a635aa57fd4" group-title="🎞️ Кинозалы", Solo ink
 http://kinowalk.hopto.org/soloink_live
 
 #EXTINF:-1 tvg-id="49811" tvg-logo="https://images.live.vkvideo.ru/user/29545720/avatar?change_time=1760619525&croped=1&mh=140&mw=140" group-title="🎞️ Кинозалы",Малдер Мегахит HD
@@ -829,13 +829,13 @@ http://kinowalk.hopto.org/miiz90x_live
 #EXTINF:-1 tvg-name="Назад в СССР" tvg-logo="https://kinowalk.hopto.org/web/image/203/128x128?unique=2026-02-24%2017:40:47.422997&access_token=0b4aaf86-06ac-49d3-832e-1f54409ec935" group-title="🎞️ Кинозалы", Назад в СССР
 http://kinowalk.hopto.org/backtotheussr_live
 
-#EXTINF:-1 tvg-name="𝕂𝔸ℂℂ𝔼𝕋𝔸" tvg-logo="https://images.live.vkvideo.ru/user/19254112/avatar?change_time=1736877622&croped=1&mh=140&mw=140" group-title="🎞️ Кинозалы", 𝕂𝔸ℂℂ𝔼𝕋𝔸
+#EXTINF:-1 tvg-name="𝕂𝔸ℂℂ𝔼𝕋𝔸" tvg-logo="https://images.live.vkvideo.ru/user/19254112/avatar?change_time=1736877622&croped=1&mh=140&mw=140" group-title="🎞️ Кинозалы",𝕂𝔸ℂℂ𝔼𝕋𝔸
 http://kinowalk.hopto.org/kasseta_live
 
-#EXTINF:-1 tvg-name="Первый ряд" tvg-logo="https://images.live.vkvideo.ru/user/19135223/avatar?change_time=1735603928&croped=1&mh=140&mw=140" group-title="🎞️ Кинозалы", Первый ряд
+#EXTINF:-1 tvg-name="Первый ряд" tvg-logo="https://images.live.vkvideo.ru/user/19135223/avatar?change_time=1735603928&croped=1&mh=140&mw=140" group-title="🎞️ Кинозалы",Первый ряд
 http://kinowalk.hopto.org/perviryad_live 
 
-#EXTINF:-1 tvg-name="Тоха Стрим" tvg-logo="https://images.live.vkvideo.ru/user/20310353/avatar?change_time=1771179346&croped=1&mh=140&mw=140" group-title="🎞️ Кинозалы", Тоха Стрим
+#EXTINF:-1 tvg-name="Тоха Стрим" tvg-logo="https://images.live.vkvideo.ru/user/20310353/avatar?change_time=1771179346&croped=1&mh=140&mw=140" group-title="🎞️ Кинозалы",Тоха Стрим
 http://kinowalk.hopto.org/toxa_stream_live
 
 #EXTINF:-1 tvg-name="Alex.Films" tvg-logo="https://images.live.vkvideo.ru/user/19397267/avatar?change_time=1763534733&croped=1&mh=140&mw=140" group-title="🎞️ Кинозалы",Alex.Films
