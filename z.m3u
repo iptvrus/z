@@ -1072,11 +1072,11 @@ http://195.9.195.3:8080/hls/163253.m3u8
 #EXTVLCOPT:http-referrer=https://goodgame.ru
 http://195.9.195.3:8080/hls/157269.m3u8
 
-#EXTINF:-1 tvg-name="SeleCao-TV 2" group-title="🎞️ ЗЕРКАЛО",SeleCao-TV (Фильмы)
+#EXTINF:-1 tvg-name="SeleCao-TV 2" group-title="🎞️ ЗЕРКАЛО",SeleCaoTV Фильмы (зеркало 2)
 #EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
 http://195.9.195.2/hls/157269.m3u8
 
-#EXTINF:-1 tvg-name="SeleCao-TV 2" group-title="🎞️ ЗЕРКАЛО",SeleCao-TV (Сериалы)
+#EXTINF:-1 tvg-name="SeleCao-TV 2" group-title="🎞️ ЗЕРКАЛО",SeleCaoTV Сериалы (зеркало 2)
 #EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
 http://195.9.195.2/hls/163253.m3u8
 
