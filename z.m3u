@@ -473,8 +473,8 @@ https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno="212" tvg-id="smiletv" group-title="👶 ДЕТСКИЕ",Смайл ТВ
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 
-
-
+#EXTINF:-1 tvg-chno="212" tvg-id="pufpatrool" group-title="👶 ДЕТСКИЕ",Kernel TV Щенячий патруль HD
+http://live.biluspeh.com/9096/video.m3u8?token=o5hVAkevx5qEzmhS
 
 
 #EXTINF:-1 tvg-chno="139" tvg-id="rutv" group-title="Музыкальные",RU.TV HD
