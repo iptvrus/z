@@ -420,7 +420,7 @@ https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 
 #EXTINF:-1 tvg-chno="134" tvg-id="o-tv" group-title="👶 ДЕТСКИЕ",О!
-http://91.221.252.12:82/tv38
+https://fs.uplink.kz/o/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-chno="208" tvg-id="ani" group-title="👶 ДЕТСКИЕ",Ani
 http://46.32.176.50/anitv/index.m3u8
