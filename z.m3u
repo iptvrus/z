@@ -402,10 +402,10 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 http://dmi3y-tv6.ru/hls/CH_NICKJR.m3u8
 
 #EXTINF:-1 tvg-chno="33" tvg-id="nick-jr" group-title="👶 ДЕТСКИЕ",Nicktoons 
-https://stream8.cinerama.uz/1502/tracks-v1a1/mono.m3u8
+http://dmitry-tv.ddns.net/hls/CH_NICKTOONS.m3u8
 
 #EXTINF:-1 tvg-chno="33" tvg-id="nickelodeon-ru" group-title="👶 ДЕТСКИЕ",Nickelodeon HD
-https://stream8.cinerama.uz/1500/tracks-v1a1/mono.m3u8
+http://dmitry-tv.ddns.net/hls/CH_NICKELODEONHD.m3u8
 
 #EXTINF:-1 tvg-chno="33" tvg-id="nickelodeon-ru" group-title="👶 ДЕТСКИЕ",Cartoon Network
 http://45.132.87.69:8080/cartoon_network/index.m3u8
@@ -416,7 +416,7 @@ http://109.94.1.3:8080/132/index.m3u8
 #EXTINF:-1 tvg-chno="210" tvg-id="kapitan-fantastika" group-title="👶 ДЕТСКИЕ",Капитан Фантастика
 https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="👶 ДЕТСКИЕ",15 Animation
+#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="👶 ДЕТСКИЕ",15+ Animation
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 
 #EXTINF:-1 tvg-chno="134" tvg-id="o-tv" group-title="👶 ДЕТСКИЕ",О!
