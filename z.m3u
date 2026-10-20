@@ -1,3 +1,5 @@
+
+
 #EXTINF:-1 tvg-chno="1" tvg-id="pervy" group-title="Федеральные",Первый канал 
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
@@ -18,8 +20,8 @@ http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 
 #EXTINF:-1 tvg-chno="6" tvg-id="kultura" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_kultura.png" group-title="Федеральные",Россия К 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
 
 #EXTINF:-1 tvg-chno="7" tvg-id="rossia-24" group-title="Федеральные;Новостные",Россия 24
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
@@ -60,32 +62,32 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 #EXTINF:-1 tvg-chno="17" tvg-id="zvezda" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/zvezda_telekanal2.jpeg" group-title="Федеральные",Звезда HD
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 
-#EXTINF:-1 tvg-chno="18" tvg-id="mir" group-title="Федеральные",Мир HD
+#EXTINF:-1 tvg-chno="18" tvg-id="mir" group-title="Федеральные",Мир 
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="19" tvg-id="tnt" group-title="Федеральные",ТНТ HD
+#EXTINF:-1 tvg-chno="19" tvg-id="tnt" group-title="Федеральные",ТНТ 
 https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=xi_8gJYgLL6s_k2zaalHKg&e=2068939169&scheme=https
 
 #EXTINF:-1 tvg-chno="20" tvg-id="muztv" tvg-logo="http://only4.tv/ch/1313.png" group-title="Музыкальные",МузТВ HD
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 
-#EXTINF:-1 tvg-chno="21" tvg-id="tnv-tatarstan" group-title="Татарстан",ТНВ-Татарстан
+#EXTINF:-1 tvg-chno="21" tvg-id="tnv" group-title="Татарстан",ТНВ-Татарстан
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8?version=2
 
-#EXTINF:-1 tvg-chno="22" tvg-id="tatarstan24-chelny" group-title="Татарстан",Татарстан 24
+#EXTINF:-1 tvg-chno="22" tvg-id="tatarstan24" group-title="Татарстан",Татарстан 24
 http://89.251.159.37:8080/hls/kunelfm2.m3u8
 
-#EXTINF:-1 tvg-chno="23" tvg-id="shayan-tv" group-title="Татарстан",Шаян ТВ (Татарстан)
+#EXTINF:-1 tvg-chno="23" tvg-id="shayantv" group-title="Татарстан",Шаян ТВ 
 https://shayan.bonus-tv.ru/cdn/shayan/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="24" tvg-id="efir-chelny" tvg-name="Эфир ТВ (Набережные Челны) HD" tvg-logo="http://domnet.me/images/picons/tvico_n52.png" group-title="Татарстан", Эфир (Набережные Челны)
+#EXTINF:-1 tvg-chno="24" tvg-id="efir24-relax" group-title="Татарстан", Эфир (Набережные Челны)
 http://tele2dvrnat01-02.cdnvideo.ru/stream/TatTVR_efir_chelny/hls/1280x720@2704/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="25" tvg-id="tmtv" group-title="Татарстан",TMTV
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_KZN_TMTV/variant.m3u8?version=2
 
-#EXTINF:-1 tvg-chno="26" tvg-id="maidan-tv" group-title="Татарстан",Майдан
+#EXTINF:-1 tvg-chno="26" tvg-id="maydan" group-title="Татарстан",Майдан
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_MAIDAN/variant.m3u8?version=2
 
 #EXTINF:-1 tvg-chno="27" tvg-id="tugan-tel" group-title="Татарстан",Туган Тел
@@ -94,7 +96,7 @@ https://stream8.cinerama.uz/1261/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno="28" tvg-id="matur-tv" group-title="Татарстан",Матур ТВ 
 http://providers.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
 
-#EXTINF:-1 tvg-chno="29" tvg-id="efir-kzn" tvg-name="Эфир ТВ (Казань)" group-title="Татарстан",Эфир
+#EXTINF:-1 tvg-chno="29" tvg-id="efir24-relax" group-title="Татарстан",Эфир (Казань)
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_EFIR/variant.m3u8?version=2
 
 #EXTINF:-1 tvg-chno="30" tvg-id="tnv-planeta" group-title="Татарстан",ТНВ-Планета
@@ -104,7 +106,8 @@ http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TNV_PLANETA_URAL/variant
 https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="32" tvg-id="tlc" group-title="Развлекательные",TLC
-http://46.32.176.50/tlc/index.m3u8
+http://stream.mcquack.net/168/tracks-v1a1/mono.ts.m3u8
+#https://bl.rutube.ru/livestream/7c3d1a4cc0b4dff1176aa2dbb0b90000/index.m3u8?s=tWN8TKJmVtwWzDXYN42N-A&e=2092479481&scheme=https
 
 #EXTINF:-1 tvg-chno="33" tvg-id="che" group-title="Развлекательные",Че
 http://tv.ttk.mx:9141
@@ -1087,11 +1090,11 @@ http://hls.goodgame.ru/hls/157269.m3u8
 
 
 
-
-
 # --- ИНФО ---
 #EXTINF:-1 tvg-chno="00" group-title="ИНФО",ОБНОВЛЕНИЕ: 08.06.2026г 15:53 
 https://iptvrus.github.io/z/info.mp4
+
+
 
 
 
