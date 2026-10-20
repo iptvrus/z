@@ -1,27 +1,31 @@
-#EXTINF:-1 tvg-chno="1" tvg-id="pervy-hd" group-title="Федеральные",Первый канал HD
-https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 tvg-chno="1" tvg-id="pervy" group-title="Федеральные",Первый канал 
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 
-#EXTINF:-1 tvg-chno="2" tvg-id="rossia1-hd" group-title="Федеральные",Россия 1 HD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-chno="2" tvg-id="rossia1" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp} group-title="Федеральные",Россия 1 
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 
-#EXTINF:-1 tvg-chno="3" tvg-id="match-tv" group-title="Федеральные",Матч! ТВ HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1
-https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+#EXTINF:-1 tvg-chno="3" tvg-id="match-tv" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp} group-title="Федеральные",Матч! ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 
-#EXTINF:-1 tvg-chno="4" tvg-id="ntv-hd" group-title="Федеральные",НТВ HD
+#EXTINF:-1 tvg-chno="4" tvg-id="ntv" group-title="Федеральные",НТВ 
 http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="5" tvg-id="5kanal-ru" group-title="Федеральные",Пятый канал
-http://193.25.8.59:8000/5
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 
 #EXTINF:-1 tvg-chno="6" tvg-id="kultura" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_kultura.png" group-title="Федеральные",Россия К HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 
-#EXTINF:-1 tvg-chno="7" tvg-id="rossia-24" group-title="Новостные",Россия 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
+#EXTINF:-1 tvg-chno="7" tvg-id="rossia-24" group-title="Федеральные;Новостные",Россия 24
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 
-#EXTINF:-1 tvg-chno="8" tvg-id="karusel-fhd" group-title="👶 ДЕТСКИЕ",Карусель
+#EXTINF:-1 tvg-chno="8" tvg-id="karusel" group-title="👶 ДЕТСКИЕ",Карусель
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 
@@ -38,7 +42,8 @@ http://185.46.16.239:8000/REN_TV
 http://185.46.16.239:8000/Spas
 
 #EXTINF:-1 tvg-chno="13" tvg-id="sts" group-title="Федеральные",СТС
-http://193.25.8.59:8000/ESPN
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 
 #EXTINF:-1 tvg-chno="14" tvg-id="domashny" group-title="Федеральные",Домашний 
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
@@ -98,44 +103,44 @@ http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TNV_PLANETA_URAL/variant
 #EXTINF:-1 tvg-chno="31" tvg-id="khuzur" group-title="Татарстан",Хузур ТВ
 https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/tracks-v1a1/mono.m3u8
 
-
-#EXTINF:-1 tvg-chno="135" tvg-id="tlc" group-title="Развлекательные",TLC
+#EXTINF:-1 tvg-chno="32" tvg-id="tlc" group-title="Развлекательные",TLC
 http://46.32.176.50/tlc/index.m3u8
 
-#EXTINF:-1 tvg-chno="31" tvg-id="che" group-title="Развлекательные",Че
-http://31.148.48.15/Che/index.m3u8
+#EXTINF:-1 tvg-chno="33" tvg-id="che" group-title="Развлекательные",Че
+http://tv.ttk.mx:9141
 
-#EXTINF:-1 tvg-chno="67" tvg-id="subbota" group-title="Развлекательные",Суббота!
-http://31.148.48.15:80/Super/index.m3u8?token=test
+#EXTINF:-1 tvg-chno="34" tvg-id="super" group-title="Развлекательные",Суббота!
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 
-#EXTINF:-1 tvg-chno="34" tvg-id="u" group-title="Развлекательные",Ю
+#EXTINF:-1 tvg-chno="35" tvg-id="u" group-title="Развлекательные",Ю
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 
-#EXTINF:-1 tvg-chno="82" tvg-id="tnt4" group-title="Развлекательные",ТНТ4
+#EXTINF:-1 tvg-chno="36" tvg-id="tnt4" group-title="Развлекательные",ТНТ4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 
-#EXTINF:-1 tvg-chno="83" tvg-id="kvn-tv" group-title="Развлекательные",КВН ТВ
+#EXTINF:-1 tvg-chno="37" tvg-id="kvn-tv" group-title="Развлекательные",КВН ТВ
 http://31.148.48.15/KVN_TV/index.m3u8
 
-#EXTINF:-1 tvg-chno="85" tvg-id="2x2" group-title="Развлекательные",2x2
+#EXTINF:-1 tvg-chno="38" tvg-id="2x2" group-title="Развлекательные",2x2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 
-#EXTINF:-1 tvg-chno="87" tvg-id="kuhnya" group-title="Развлекательные",Кухня
+#EXTINF:-1 tvg-chno="39" tvg-id="kuhnya" group-title="Развлекательные",Кухня
 http://185.78.112.47:8077/kuhnya/index.m3u8
 
-#EXTINF:-1 tvg-chno="87" tvg-id="kuhnya" group-title="Развлекательные",Food Time HD
+#EXTINF:-1 tvg-chno="40" tvg-id="kuhnya" group-title="Развлекательные",Food Time HD
 http://31.148.48.15/Eda_Premium_HD/index.m3u8
 
-#EXTINF:-1 tvg-chno="87" tvg-id="kuhnya" group-title="Развлекательные",Еда
+#EXTINF:-1 tvg-chno="41" tvg-id="kuhnya" group-title="Развлекательные",Еда
 http://93.84.115.174:10181/edahd
 
-#EXTINF:-1 tvg-chno="86" tvg-id="telekafe" group-title="Развлекательные",Телекафе
+#EXTINF:-1 tvg-chno="42" tvg-id="telekafe" group-title="Развлекательные",Телекафе
 http://31.148.48.15/Telekafe/index.m3u8
 
-#EXTINF:-1 tvg-chno="88" tvg-id="ntv-stil" group-title="Развлекательные",НТВ Стиль
+#EXTINF:-1 tvg-chno="43" tvg-id="ntv-stil" group-title="Развлекательные",НТВ Стиль
 http://cdn.kubteltv.workers.dev/?ID=330
 
-#EXTINF:-1 tvg-chno="84" tvg-id="myzen" group-title="Развлекательные",Myzen TV
+#EXTINF:-1 tvg-chno="44" tvg-id="myzen" group-title="Развлекательные",Myzen TV
 http://91.194.191.241:8081/chid417/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="90" tvg-id="zhivi" group-title="Развлекательные",Живи
