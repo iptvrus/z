@@ -123,7 +123,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 
 #EXTINF:-1 tvg-chno="37" tvg-id="kvn-tv" group-title="Развлекательные",КВН ТВ
-http://31.148.48.15/KVN_TV/index.m3u8
+http://195.64.140.147:10138/138
 
 #EXTINF:-1 tvg-chno="38" tvg-id="2x2" group-title="Развлекательные",2x2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
@@ -132,7 +132,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 http://185.78.112.47:8077/kuhnya/index.m3u8
 
 #EXTINF:-1 tvg-chno="40" tvg-id="kuhnya" group-title="Развлекательные",Food Time HD
-http://31.148.48.15/Eda_Premium_HD/index.m3u8
+http://stream.mcquack.net/216/index.m3u8
 
 #EXTINF:-1 tvg-chno="41" tvg-id="kuhnya" group-title="Развлекательные",Еда
 http://93.84.115.174:10181/edahd
