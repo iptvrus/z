@@ -109,7 +109,7 @@ https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/tracks-v1a1/mo
 http://stream.mcquack.net/168/tracks-v1a1/mono.ts.m3u8
 #https://bl.rutube.ru/livestream/7c3d1a4cc0b4dff1176aa2dbb0b90000/index.m3u8?s=tWN8TKJmVtwWzDXYN42N-A&e=2092479481&scheme=https
 
-#EXTINF:-1 tvg-chno="33" tvg-id="che" group-title="Развлекательные",Че1
+#EXTINF:-1 tvg-chno="33" tvg-id="che" group-title="Развлекательные",Че
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 
@@ -130,7 +130,10 @@ http://195.64.140.147:10138/138
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 
 #EXTINF:-1 tvg-chno="39" tvg-id="kuhnya" group-title="Развлекательные",Кухня
-http://185.78.112.47:8077/kuhnya/index.m3u8
+http://mfe02.cliptv.az/dash/Kuxnya_TV_SDlao150.ism/playlist.mpd
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://i122.fastpic.org/big/2023/0903/dd/885ed8503262c3f3db6024c1983246dd.png" group-title="Развлекательные", Кулинар ТВ
+https://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 
 #EXTINF:-1 tvg-chno="40" tvg-id="kuhnya" group-title="Развлекательные",Food Time HD
 http://stream.mcquack.net/216/index.m3u8
@@ -151,7 +154,10 @@ http://91.194.191.241:8081/chid417/tracks-v1a1/mono.m3u8
 https://tinyurl.com/TvZaTak05/1419/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="185" tvg-id="sarafan" group-title="Развлекательные",Сарафан
-http://31.148.48.15:80/Sarafan/index.m3u8?token=test
+http://31.210.208.171:8080/sarafan/index.m3u8?token=+W2MSER
+
+#EXTINF:-1, tvg-chno="186" tvg-id="tvoetv" group-title="Развлекательные",Твоё ТВ
+http://tvoetv.space:8080/tvoetv/index.m3u8
 
 #EXTINF:-1 tvg-chno="91" tvg-id="360-novosti" group-title="Развлекательные",360 Новости
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
@@ -176,7 +182,8 @@ https://stream8.cinerama.uz/1051/tracks-v2a1/mono.m3u8
 http://37.46.49.14:18010/play/a08u/index.m3u8
 
 #EXTINF:-1 tvg-chno="57" tvg-id="sts-love" group-title="Кино и сериалы",СТС Love
-http://31.148.48.15/STS_Love/index.m3u8
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STSLOVE/variant.m3u8
 
 #EXTINF:-1 tvg-chno="46" tvg-id="kineko" group-title="Кино и сериалы",Кинеко
 http://31.148.48.15/Kineko/index.m3u8
