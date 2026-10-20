@@ -186,7 +186,7 @@ http://37.46.49.14:18010/play/a08u/index.m3u8
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STSLOVE/variant.m3u8
 
 #EXTINF:-1 tvg-chno="46" tvg-id="kineko" group-title="Кино и сериалы",Кинеко
-http://31.148.48.15/Kineko/index.m3u8
+http://178.134.1.158:8081/kineko/index.m3u8
 
 #EXTINF:-1 tvg-chno="46" tvg-id="kineko" group-title="Кино и сериалы",Кинеко HD
 http://31.148.48.15/Kineko_HD/index.m3u8
@@ -683,7 +683,8 @@ https://watcher.uz:443/98/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.
 #EXTINF:-1 tvg-chno="188" tvg-id="english-class" group-title="🎓 ПОЗНАВАТЕЛЬНЫЕ ",English Class
 http://31.148.48.15:80/English_club_TV_HD/index.m3u8
 
-
+#EXTINF:-1 tvg-chno="188" tvg-id="univer" group-title="🎓 ПОЗНАВАТЕЛЬНЫЕ ",Univer HD
+https://cdn.universmotri.ru/live/smil:univer.smil/chunklist_w720990141_b3628000_slru.m3u8
 
 #EXTINF:-1 tvg-chno="191" tvg-id="oruzhie" group-title="🎓 ПОЗНАВАТЕЛЬНЫЕ ",Оружие
 http://158.101.222.193:88/georgia_play.php?id=oruzhie
