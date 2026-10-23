@@ -465,6 +465,10 @@ http://109.94.1.3:8080/132/index.m3u8
 #EXTINF:-1 tvg-chno="210" tvg-id="kapitan-fantastika" group-title="👶 ДЕТСКИЕ",Капитан Фантастика
 http://178.124.179.122:8088/Malish/index.m3u8
 
+#EXTINF:-1 tvg-chno="8" tvg-id="karusel" group-title="👶 ДЕТСКИЕ",Карусель
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+
 #EXTINF:-1 tvg-chno="134" tvg-id="o-tv" group-title="👶 ДЕТСКИЕ",О!
 http://195.64.140.147:10124/124
 
