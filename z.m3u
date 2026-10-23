@@ -1,5 +1,6 @@
-# --- 🇷🇺 ФЕДЕРАЛЬНЫЕ / ЭФИРНЫЕ ---
+#EXTM3U
 
+# --- 🇷🇺 ФЕДЕРАЛЬНЫЕ / ЭФИРНЫЕ ---
 #EXTINF:-1 tvg-chno="1" tvg-id="pervy" group-title="🇷🇺 ФЕДЕРАЛЬНЫЕ",Первый канал 
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
