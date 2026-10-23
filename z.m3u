@@ -1,6 +1,6 @@
 #EXTM3U
 
-# --- 🇷🇺 ФЕДЕРАЛЬНЫЕ / ЭФИРНЫЕ ---
+# --- ФЕДЕРАЛЬНЫЕ / ЭФИРНЫЕ ---
 #EXTINF:-1 tvg-chno="1" tvg-id="pervy" group-title="ФЕДЕРАЛЬНЫЕ",Первый канал 
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
@@ -41,7 +41,7 @@ http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="11" tvg-id="rentv" group-title="ФЕДЕРАЛЬНЫЕ",РЕН ТВ
 http://185.46.16.239:8000/REN_TV
 
-#EXTINF:-1 tvg-chno="12" tvg-id="spas" group-title="ФЕДЕРАЛЬНЫЕ",Спас
+#EXTINF:-1 tvg-chno="12" tvg-id="spas" group-title="Религиозные",Спас
 http://185.46.16.239:8000/Spas
 
 #EXTINF:-1 tvg-chno="13" tvg-id="sts" group-title="ФЕДЕРАЛЬНЫЕ",СТС
@@ -139,13 +139,13 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 #EXTINF:-1 tvg-chno="39" tvg-id="kuhnya" group-title="Развлекательные",Кухня
 http://mfe02.cliptv.az/dash/Kuxnya_TV_SDlao150.ism/playlist.mpd
 
-#EXTINF:-1 tvg-id="kulinar" tvg-logo="http://i122.fastpic.org/big/2023/0903/dd/885ed8503262c3f3db6024c1983246dd.png" group-title="Развлекательные", Кулинар ТВ
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://i122.fastpic.org/big/2023/0903/dd/885ed8503262c3f3db6024c1983246dd.png" group-title="Развлекательные", Кулинар ТВ
 https://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 
 #EXTINF:-1 tvg-chno="40" tvg-id="kuhnya" group-title="Развлекательные",Food Time HD
 http://stream.mcquack.net/216/index.m3u8
 
-#EXTINF:-1 tvg-chno="41" tvg-id="eda" group-title="Развлекательные",Еда
+#EXTINF:-1 tvg-chno="41" tvg-id="kuhnya" group-title="Развлекательные",Еда
 http://93.84.115.174:10181/edahd
 
 #EXTINF:-1 tvg-chno="42" tvg-id="telekafe" group-title="Развлекательные",Телекафе
@@ -680,7 +680,7 @@ http://cityeden.catcast.tv/content/41331/index.m3u8
 #EXTINF:-1 tvg-chno="177" tvg-id="plan-b" group-title="Кино и сериалы",Plan B
 http://46.32.176.50/paramountchannel/index.m3u8
 
-#EXTINF:-1 tvg-chno="178" tvg-id="pobeda-sd" group-title="🇷🇺 ФЕДЕРАЛЬНЫЕ",Победа 
+#EXTINF:-1 tvg-chno="178" tvg-id="pobeda-sd" group-title="ФЕДЕРАЛЬНЫЕ",Победа 
 http://193.25.8.59:8000/tochka
 
 #EXTINF:-1 tvg-chno="181" tvg-id="fan-hd" group-title="Кино и сериалы",Fan HD
@@ -1092,6 +1092,5 @@ http://hls.goodgame.ru/hls/157269.m3u8
 # --- ИНФО ---
 #EXTINF:-1 tvg-chno="00" group-title="❗❗❗ ИНФО",ОБНОВЛЕНИЕ: 20.10.2026г 13:54 
 https://iptvrus.github.io/z/info.mp4
-
 
 
