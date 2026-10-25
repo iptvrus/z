@@ -441,20 +441,21 @@ http://kinowalk.hopto.org/kanaldisneyonline_live
 http://kinowalk.hopto.org/disneyxd_live
 
 #EXTINF:-1 tvg-chno="209" tvg-id="cartoon-classics" group-title="👶 ДЕТСКИЕ",Cartoon Classics
-http://5.188.159.128:8070/Cartoon_Network/index.m3u8
+https://iptvrusz.s.gy/CartoonClassics.m3u8
 
 #EXTINF:-1 tvg-chno="209" tvg-id="chip-n-dale" group-title="👶 ДЕТСКИЕ",Чип и Дейл 
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 
 #EXTINF:-1 tvg-chno="33" tvg-id="nick-jr" group-title="👶 ДЕТСКИЕ",Nick Jr
-http://stream.mcquack.net/220/tracks-v1a1/mono.ts.m3u8
+https://iptvrusz.s.gy/NickJr.m3u8
 #http://dmi3y-tv6.ru/hls/CH_NICKJR.m3u8
+#http://dmitry-tv.ddns.net/hls/CH_NICKJR.m3u8
 
 #EXTINF:-1 tvg-chno="33" tvg-id="nick-jr" group-title="👶 ДЕТСКИЕ",Nicktoons 
-http://dmitry-tv.ddns.net/hls/CH_NICKTOONS.m3u8
+https://iptvrusz.s.gy/NickToons.m3u8
 
-#EXTINF:-1 tvg-chno="33" tvg-id="nickelodeon-ru" group-title="👶 ДЕТСКИЕ",Nickelodeon HD
-http://dmitry-tv.ddns.net/hls/CH_NICKELODEONHD.m3u8
+#EXTINF:-1 tvg-chno="33" tvg-id="nickelodeon-ru" group-title="👶 ДЕТСКИЕ",Nickelodeon
+https://iptvrusz.s.gy/Nickelodeon.m3u8
 
 #EXTINF:-1 tvg-chno="33" tvg-id="nickelodeon-ru" group-title="👶 ДЕТСКИЕ",Cartoon Network
 http://45.132.87.69:8080/cartoon_network/index.m3u8
