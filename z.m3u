@@ -464,7 +464,7 @@ http://45.132.87.69:8080/cartoon_network/index.m3u8
 http://109.94.1.3:8080/132/index.m3u8
 
 #EXTINF:-1 tvg-chno="210" tvg-id="kapitan-fantastika" group-title="👶 ДЕТСКИЕ",Капитан Фантастика
-http://178.124.179.122:8088/Malish/index.m3u8
+https://iptvrusz.s.gy/CapitanFantastica.m3u8
 
 #EXTINF:-1 tvg-chno="8" tvg-id="karusel" group-title="👶 ДЕТСКИЕ",Карусель
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
