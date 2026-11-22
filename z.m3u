@@ -434,11 +434,11 @@ http://kinowalk.hopto.org/foxkids_remastered_live
 #EXTINF:-1 tvg-chno="208" tvg-id="jetix" group-title="👶 ДЕТСКИЕ",JTX Online
 https://live.jtx-online.ru/memfs/e30ea533-4abf-4a88-91bc-73744ecfd06f.m3u8
 
-#EXTINF:-1 tvg-chno="208" tvg-id="jetix" group-title="👶 ДЕТСКИЕ",Disney
+#EXTINF:-1 tvg-chno="208" tvg-id="disney" group-title="👶 ДЕТСКИЕ",Disney
 http://kinowalk.hopto.org/kanaldisneyonline_live
 
-#EXTINF:-1 tvg-chno="208" tvg-id="jetix" group-title="👶 ДЕТСКИЕ",DisneyXD
-http://kinowalk.hopto.org/disneyxd_live
+#EXTINF:-1 tvg-chno="208" tvg-id="disneyxD" group-title="👶 ДЕТСКИЕ",DisneyXD
+http://kinowalk.hopto.org/disneyxdvip_live
 
 #EXTINF:-1 tvg-chno="209" tvg-id="cartoon-classics" group-title="👶 ДЕТСКИЕ",Cartoon Classics
 https://iptvrusz.s.gy/CartoonClassics.m3u8
